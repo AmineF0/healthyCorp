@@ -1,0 +1,30 @@
+# The id of the broker. This must be set to a unique integer for each broker.
+broker.id=0
+
+# root directory for all kafka znodes.
+zookeeper.connect=localhost:2181
+
+# The address the socket server listens on. If not configured, the host name will be equal to the value of
+listeners=PLAINTEXT://:9092
+
+# A comma separated list of directories under which to store log files
+# log.dirs=/tmp/kafka-logs
+
+
+# FROM confluentinc/cp-kafka:5.5.0
+
+# WORKDIR /kafka
+
+# COPY . /kafka
+
+# CMD ["/bin/bash"]
+
+# =======
+# version: '3'
+# services:
+#   kafka:
+#     build: .
+#     container_name: kafka  # Set the container name to 'kafka'
+#     network_mode: "host"   # Use the host's network stack to expose all ports
+#     stdin_open: true       # Keep the container open for interaction
+#     tty: true              # Allocate a pseudo-TTY
