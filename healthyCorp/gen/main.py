@@ -6,7 +6,10 @@ from database_handler import DatabaseHandler
 from generators import CorporationGenerator, DepartmentGenerator, TeamGenerator, TeamMemberGenerator
 
 # Initialize OpenAI client
-client = OpenAI(base_url="http://localhost:5000/v1", api_key="lm-studio")
+client = OpenAI(
+      base_url = "https://integrate.api.nvidia.com/v1",
+  api_key = "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"
+)
 
 # Global variables
 num_corporations = 1  # Number of corporations to simulate

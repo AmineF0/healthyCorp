@@ -15,7 +15,7 @@ class CorporationGenerator:
     def generate(self):
         print("Generating corporation...")
         name = self.client.chat.completions.create(
-            model="lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF",
+            model="meta/llama-3.1-405b-instruct",
             messages=[
                 {"role": "system", "content": "Generate a random corporation name. a single one. Make sure it sounds professional, and only the name is given. don t make it empty."},
             ],
@@ -23,7 +23,8 @@ class CorporationGenerator:
         ).choices[0].message.content
         print(
             self.client.chat.completions.create(
-            model="lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF",
+              model="meta/llama-3.1-405b-instruct",
+
             messages=[
                 {"role": "system", "content": "Generate a random corporation name."},
             ],
@@ -33,7 +34,8 @@ class CorporationGenerator:
         print(f"Generated corporation name: {name}")
 
         description = self.client.chat.completions.create(
-            model="lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF",
+              model="meta/llama-3.1-405b-instruct",
+
             messages=[
                 {"role": "system", "content": f"Generate a brief description for the corporation named {name}."},
             ],
@@ -55,7 +57,8 @@ class DepartmentGenerator:
     def generate(self, corp_id, corp_name):
         print(f"Generating department for corporation: {corp_name}...")
         name = self.client.chat.completions.create(
-            model="lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF",
+              model="meta/llama-3.1-405b-instruct",
+
             messages=[
                 {"role": "system", "content": f"Generate a random department name for the corporation named {corp_name}."},
             ],
@@ -64,7 +67,8 @@ class DepartmentGenerator:
         print(f"Generated department name: {name}")
 
         description = self.client.chat.completions.create(
-            model="lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF",
+              model="meta/llama-3.1-405b-instruct",
+
             messages=[
                 {"role": "system", "content": f"Generate a brief description for the department named {name} in the corporation named {corp_name}."},
             ],
@@ -86,7 +90,8 @@ class TeamGenerator:
     def generate(self, dept_id, dept_name, corp_name):
         print(f"Generating team for department: {dept_name} in corporation: {corp_name}...")
         name = self.client.chat.completions.create(
-            model="lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF",
+              model="meta/llama-3.1-405b-instruct",
+
             messages=[
                 {"role": "system", "content": f"Generate a random team name for the department named {dept_name} in the corporation named {corp_name}."},
             ],
@@ -95,7 +100,8 @@ class TeamGenerator:
         print(f"Generated team name: {name}")
 
         description = self.client.chat.completions.create(
-            model="lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF",
+              model="meta/llama-3.1-405b-instruct",
+
             messages=[
                 {"role": "system", "content": f"Generate a brief description for the team named {name} in the department named {dept_name} of the corporation named {corp_name}."},
             ],
@@ -117,7 +123,8 @@ class TeamMemberGenerator:
     def generate(self, team_id, team_name, dept_name, corp_name, is_lead=False):
         print(f"Generating team member for team: {team_name} in department: {dept_name} of corporation: {corp_name}...")
         name = self.client.chat.completions.create(
-            model="lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF",
+              model="meta/llama-3.1-405b-instruct",
+
             messages=[
                 {"role": "system", "content": f"Generate a random name for a team member in the team named {team_name} of the department named {dept_name} in the corporation named {corp_name}."},
             ],

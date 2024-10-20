@@ -200,3 +200,5 @@ pyvenv.cfg
 
 data/
 *.db
+
+.env
