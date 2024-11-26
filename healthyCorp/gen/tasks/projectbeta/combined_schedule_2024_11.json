@@ -1,0 +1,1978 @@
+{
+  "Hassan Al-Mahmoud": [
+    {
+      "date": "2024-11-01",
+      "task": "Review ML Platform quality metrics",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Lead Analytics performance review",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Approve Technical Specifications specifications",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Critical analysis of Performance Monitoring",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Review ML Platform quality metrics",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Lead Analytics performance review",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Review Real-time Processing quality metrics",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Review ML Platform quality metrics",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Critical analysis of Quality Gates",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Evaluate System Integration efficiency",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Lead Data Engineering performance review",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Approve Technical Specifications specifications",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Critical analysis of Quality Gates",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Approve Architecture Design specifications",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Evaluate Data Quality efficiency",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Approve System Requirements specifications",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Critical analysis of Performance Monitoring",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Approve Quality Standards specifications",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Evaluate Pipeline Optimization efficiency",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Review ML Platform quality metrics",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Evaluate Data Quality efficiency",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Critical analysis of Quality Gates",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Evaluate System Integration efficiency",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Approve Architecture Design specifications",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Review Analytics Engine quality metrics",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Critical analysis of Automated Testing",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Evaluate System Integration efficiency",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Critical analysis of Quality Gates",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Lead Analytics performance review",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Lead Data Engineering performance review",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Critical analysis of Quality Gates",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Review Real-time Processing quality metrics",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Approve Architecture Design specifications",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Review Analytics Engine quality metrics",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Evaluate Pipeline Optimization efficiency",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Review Real-time Processing quality metrics",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Review Analytics Engine quality metrics",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Approve System Requirements specifications",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Lead Data Engineering performance review",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Review Analytics Engine quality metrics",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Review Analytics Engine quality metrics",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Approve Architecture Design specifications",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Review ML Platform quality metrics",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Critical analysis of Automated Testing",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Lead ML Ops performance review",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Lead ML Ops performance review",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Lead Platform performance review",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Evaluate Pipeline Optimization efficiency",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Critical analysis of Performance Monitoring",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Lead Data Engineering performance review",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Review Data Warehouse quality metrics",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Critical analysis of Automated Testing",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Evaluate Pipeline Optimization efficiency",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Lead Data Engineering performance review",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Approve Quality Standards specifications",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Evaluate Data Quality efficiency",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Review Analytics Engine quality metrics",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Approve Technical Specifications specifications",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Lead ML Ops performance review",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Lead ML Ops performance review",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Critical analysis of Automated Testing",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Approve Technical Specifications specifications",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Approve Quality Standards specifications",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Evaluate Model Deployment efficiency",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Lead Analytics performance review",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Review Data Warehouse quality metrics",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Lead Platform performance review",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Lead Analytics performance review",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Evaluate Model Deployment efficiency",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Approve System Requirements specifications",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Review Real-time Processing quality metrics",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Evaluate Pipeline Optimization efficiency",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Critical analysis of Quality Gates",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Approve Technical Specifications specifications",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Critical analysis of Automated Testing",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Lead ML Ops performance review",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Review Data Warehouse quality metrics",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Critical analysis of Automated Testing",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Approve System Requirements specifications",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Evaluate Model Deployment efficiency",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Critical analysis of Deployment Pipeline",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Lead ML Ops performance review",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Critical analysis of Automated Testing",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Approve Quality Standards specifications",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Review Analytics Engine quality metrics",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Critical analysis of Deployment Pipeline",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Approve Architecture Design specifications",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Evaluate Model Deployment efficiency",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Review Data Warehouse quality metrics",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Evaluate System Integration efficiency",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Review Data Warehouse quality metrics",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Critical analysis of Performance Monitoring",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Evaluate Model Deployment efficiency",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Review Analytics Engine quality metrics",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Review Analytics Engine quality metrics",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Evaluate Pipeline Optimization efficiency",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Review ML Platform quality metrics",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Critical analysis of Quality Gates",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Evaluate System Integration efficiency",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Approve Technical Specifications specifications",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Lead Platform performance review",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Lead ML Ops performance review",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Critical analysis of Deployment Pipeline",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Lead ML Ops performance review",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Review Data Warehouse quality metrics",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Critical analysis of Deployment Pipeline",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Evaluate Pipeline Optimization efficiency",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Approve Architecture Design specifications",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Review Real-time Processing quality metrics",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Lead Analytics performance review",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Lead Analytics performance review",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Review Data Warehouse quality metrics",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Lead Platform performance review",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Lead Analytics performance review",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Approve Quality Standards specifications",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Lead Platform performance review",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Review ML Platform quality metrics",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Critical analysis of Performance Monitoring",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Approve Technical Specifications specifications",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Review Real-time Processing quality metrics",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Evaluate Data Quality efficiency",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Approve Architecture Design specifications",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Lead Platform performance review",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Critical analysis of Automated Testing",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Critical analysis of Performance Monitoring",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Review ML Platform quality metrics",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Critical analysis of Automated Testing",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Review Real-time Processing quality metrics",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Evaluate Model Deployment efficiency",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Critical analysis of Deployment Pipeline",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Lead Data Engineering performance review",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Review Real-time Processing quality metrics",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Evaluate System Integration efficiency",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Lead Platform performance review",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Critical analysis of Performance Monitoring",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Critical analysis of Performance Monitoring",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Evaluate Model Deployment efficiency",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Approve Technical Specifications specifications",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Approve Quality Standards specifications",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Approve Technical Specifications specifications",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Review Analytics Engine quality metrics",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Lead Analytics performance review",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Critical analysis of Performance Monitoring",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Review Real-time Processing quality metrics",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Critical analysis of Deployment Pipeline",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Review ML Platform quality metrics",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Approve Technical Specifications specifications",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Lead Analytics performance review",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Approve System Requirements specifications",
+      "priority": "Medium",
+      "estimated_hours": 3
+    }
+  ],
+  "Elizabeth Parker": [
+    {
+      "date": "2024-11-01",
+      "task": "Optimize Quality Control workflow",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Optimize System Recovery workflow",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Develop API Gateway framework",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Design solution for System Reliability",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Implement Error Recovery enhancement",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Develop API Gateway framework",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Design solution for Data Scalability",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Implement Auto-scaling enhancement",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Optimize Quality Control workflow",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Develop External Systems framework",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Improve Cache Layer architecture",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Optimize Quality Control workflow",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Develop Service Mesh framework",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Design solution for System Reliability",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Implement Error Recovery enhancement",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Implement Auto-scaling enhancement",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Optimize Resource Management workflow",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Improve Query Engine architecture",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Design solution for Resource Optimization",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Develop Data Sources framework",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Design solution for System Reliability",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Improve Query Engine architecture",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Improve ETL System architecture",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Implement Error Recovery enhancement",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Develop API Gateway framework",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Optimize Data Processing workflow",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Design solution for Data Scalability",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Develop Data Sources framework",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Implement Performance Optimization enhancement",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Optimize Resource Management workflow",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Improve ETL System architecture",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Improve ETL System architecture",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Implement Auto-scaling enhancement",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Optimize Quality Control workflow",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Develop Service Mesh framework",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Develop API Gateway framework",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Develop API Gateway framework",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Optimize Data Processing workflow",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Optimize Data Processing workflow",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Improve Query Engine architecture",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Optimize Quality Control workflow",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Optimize Resource Management workflow",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Design solution for Data Scalability",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Develop API Gateway framework",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Implement Load Balancing enhancement",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Optimize Quality Control workflow",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Implement Performance Optimization enhancement",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Design solution for Data Scalability",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Implement Load Balancing enhancement",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Optimize System Recovery workflow",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Improve Processing Pipeline architecture",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Develop API Gateway framework",
+      "priority": "Medium",
+      "estimated_hours": 4
+    }
+  ],
+  "James Cooper": [
+    {
+      "date": "2024-11-01",
+      "task": "Maintain Message Queue documentation",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Debug System Errors in Monitoring System",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Update Troubleshooting procedures",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Implement Logging module",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Update Testing procedures",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Maintain Database documentation",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Configure Development IDE settings",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Debug Performance Bottlenecks in Processing Engine",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Implement Logging module",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Maintain Database documentation",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Configure Testing Framework settings",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Configure Monitoring Tools settings",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Maintain Load Balancer documentation",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Update Troubleshooting procedures",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Update Testing procedures",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Implement Error Handling module",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Update Troubleshooting procedures",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Configure Monitoring Tools settings",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Configure Development IDE settings",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Update Testing procedures",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Implement Error Handling module",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Configure Monitoring Tools settings",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Implement Data Validation module",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Maintain Cache System documentation",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Update Deployment procedures",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Configure Deployment Tools settings",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Update Maintenance procedures",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Maintain Load Balancer documentation",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Debug Integration Issues in Backend Services",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Maintain Load Balancer documentation",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Update Deployment procedures",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Update Troubleshooting procedures",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Configure Monitoring Tools settings",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Configure Development IDE settings",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Configure Testing Framework settings",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Implement Data Validation module",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Maintain Message Queue documentation",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Debug Integration Issues in Backend Services",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Implement Security Controls module",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Maintain Message Queue documentation",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Debug Integration Issues in Data Storage",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Debug Performance Bottlenecks in Backend Services",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Maintain Cache System documentation",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Maintain Message Queue documentation",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Configure Deployment Tools settings",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Update Troubleshooting procedures",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Update Maintenance procedures",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Maintain Cache System documentation",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Implement Logging module",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Maintain Database documentation",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Update Deployment procedures",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Configure Testing Framework settings",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Configure Monitoring Tools settings",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Implement Security Controls module",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Update Troubleshooting procedures",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Update Testing procedures",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Update Deployment procedures",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Implement Error Handling module",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Update Maintenance procedures",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Configure Development IDE settings",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Configure Monitoring Tools settings",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Maintain Load Balancer documentation",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Configure Monitoring Tools settings",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Configure Development IDE settings",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Maintain Message Queue documentation",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Implement Logging module",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Configure Deployment Tools settings",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Update Troubleshooting procedures",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Maintain Database documentation",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Configure Development IDE settings",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Update Troubleshooting procedures",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Maintain Cache System documentation",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Maintain Message Queue documentation",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Debug Performance Bottlenecks in Backend Services",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Implement Security Controls module",
+      "priority": "Medium",
+      "estimated_hours": 5
+    }
+  ],
+  "Noura Al-Zahrani": [
+    {
+      "date": "2024-11-01",
+      "task": "Validate Performance Monitoring requirements",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Document Quality Assurance workflow",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Validate System Integration requirements",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Analyze System Performance performance",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Document Deployment workflow",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Monitor Production Environment health",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Analyze Resource Usage performance",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Review Processing Units architecture",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Analyze System Performance performance",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Validate Error Handling requirements",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Monitor Monitoring Systems health",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Analyze Processing Time performance",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Document Maintenance workflow",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Document Maintenance workflow",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Analyze Error Rates performance",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Monitor Monitoring Systems health",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Monitor Monitoring Systems health",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Review API Services architecture",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Review Data Pipeline architecture",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Analyze System Performance performance",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Analyze Error Rates performance",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Monitor Development Tools health",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Document Data Flow workflow",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Review Processing Units architecture",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Monitor Testing Environment health",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Monitor Development Tools health",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Analyze System Performance performance",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Monitor Development Tools health",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Analyze System Performance performance",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Monitor Production Environment health",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Analyze Error Rates performance",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Analyze Error Rates performance",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Validate System Integration requirements",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Monitor Monitoring Systems health",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Analyze Processing Time performance",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Review API Services architecture",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Document Maintenance workflow",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Validate System Integration requirements",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Analyze Resource Usage performance",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Monitor Development Tools health",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Review API Services architecture",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Analyze System Performance performance",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Review Processing Units architecture",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Analyze System Performance performance",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Document Quality Assurance workflow",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Review Storage Layer architecture",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Document Deployment workflow",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Analyze Processing Time performance",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Monitor Production Environment health",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Monitor Monitoring Systems health",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Review Processing Units architecture",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Validate Performance Monitoring requirements",
+      "priority": "Low",
+      "estimated_hours": 2
+    }
+  ]
+}

@@ -1,0 +1,830 @@
+[
+  {
+    "date": "2024-11-01",
+    "task": "Update project timeline for Analytics Platform",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Create documentation for backlog grooming",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Prepare progress report on resource utilization",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Update project timeline for Data Lake",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Update project timeline for Analytics Platform",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Prepare progress report on project status",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Monitor KPIs for Process Automation",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Create documentation for security patching",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Monitor KPIs for Platform Migration",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Update project timeline for Analytics Platform",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Prepare progress report on operational efficiency",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Prepare progress report on performance metrics",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Update project timeline for ML Pipeline",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Monitor KPIs for Process Automation",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Resource allocation review for Analytics",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Monitor KPIs for Data Strategy",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Monitor KPIs for Platform Migration",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Monitor KPIs for Process Automation",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Monitor KPIs for Process Automation",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Create documentation for backup verification",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-06",
+    "task": "Update project timeline for ML Pipeline",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-06",
+    "task": "Create documentation for risk assessment",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-06",
+    "task": "Resource allocation review for Infrastructure",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-06",
+    "task": "Prepare progress report on performance metrics",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-06",
+    "task": "Resource allocation review for Research",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-06",
+    "task": "Update project timeline for ML Pipeline",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-06",
+    "task": "Resource allocation review for Operations",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Monitor KPIs for Data Strategy",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Resource allocation review for Analytics",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Resource allocation review for Platform",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Resource allocation review for Infrastructure",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Resource allocation review for Development",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Resource allocation review for Development",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Resource allocation review for Research",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Resource allocation review for Analytics",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Prepare progress report on team development",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Monitor KPIs for Platform Migration",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Monitor KPIs for Team Excellence",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Resource allocation review for Infrastructure",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Prepare progress report on budget tracking",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Resource allocation review for Development",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-11",
+    "task": "Update project timeline for Data Governance",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-11",
+    "task": "Resource allocation review for Platform",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-11",
+    "task": "Monitor KPIs for Process Automation",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-11",
+    "task": "Prepare progress report on stakeholder engagement",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-11",
+    "task": "Monitor KPIs for Process Automation",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-11",
+    "task": "Create documentation for performance tuning",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-11",
+    "task": "Create documentation for security assessment",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-12",
+    "task": "Update project timeline for Data Lake",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-12",
+    "task": "Create documentation for deployment",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-12",
+    "task": "Create documentation for offboarding",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-12",
+    "task": "Prepare progress report on performance metrics",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-12",
+    "task": "Resource allocation review for Platform",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-12",
+    "task": "Resource allocation review for Research",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-12",
+    "task": "Resource allocation review for Analytics",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Update project timeline for Analytics Platform",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Create documentation for budget allocation",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Create documentation for performance tuning",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Prepare progress report on performance metrics",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Resource allocation review for Research",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Resource allocation review for Research",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-14",
+    "task": "Create documentation for continuous deployment",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-14",
+    "task": "Prepare progress report on stakeholder engagement",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-14",
+    "task": "Monitor KPIs for Team Excellence",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-14",
+    "task": "Resource allocation review for Analytics",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-14",
+    "task": "Prepare progress report on budget tracking",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-14",
+    "task": "Create documentation for architectural review",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Monitor KPIs for Innovation",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Update project timeline for Data Governance",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Update project timeline for Analytics Platform",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Prepare progress report on budget tracking",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Monitor KPIs for Data Strategy",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Prepare progress report on resource utilization",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Update project timeline for ML Pipeline",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-18",
+    "task": "Create documentation for deployment",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-18",
+    "task": "Create documentation for continuous integration",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-18",
+    "task": "Create documentation for asset management",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-18",
+    "task": "Resource allocation review for Research",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-18",
+    "task": "Resource allocation review for Development",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-18",
+    "task": "Monitor KPIs for Platform Migration",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-18",
+    "task": "Create documentation for backup verification",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Resource allocation review for Platform",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Prepare progress report on risk management",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Monitor KPIs for Innovation",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Create documentation for penetration testing",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Resource allocation review for Platform",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Update project timeline for Data Lake",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Resource allocation review for Infrastructure",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Prepare progress report on risk management",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Monitor KPIs for Data Strategy",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Create documentation for deployment",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Update project timeline for Analytics Platform",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Prepare progress report on resource utilization",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Update project timeline for Analytics Platform",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Prepare progress report on resource utilization",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Create documentation for vendor management",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Update project timeline for Cloud Migration",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Create documentation for requirements gathering",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Create documentation for access control",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-22",
+    "task": "Prepare progress report on process optimization",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-22",
+    "task": "Monitor KPIs for Platform Migration",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-22",
+    "task": "Resource allocation review for Development",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-22",
+    "task": "Create documentation for resource planning",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-22",
+    "task": "Update project timeline for Digital Transformation",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-22",
+    "task": "Create documentation for asset management",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Create documentation for quality assurance",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Update project timeline for Data Lake",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Update project timeline for Data Lake",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Prepare progress report on performance metrics",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Monitor KPIs for Team Excellence",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Monitor KPIs for Digital Transformation",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Create documentation for career development",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Monitor KPIs for Platform Migration",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Prepare progress report on team development",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Resource allocation review for Development",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Monitor KPIs for Process Automation",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Update project timeline for ML Pipeline",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Update project timeline for Cloud Migration",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Create documentation for change management",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Update project timeline for Digital Transformation",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Monitor KPIs for Process Automation",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Update project timeline for Digital Transformation",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Prepare progress report on process optimization",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Create documentation for agile ceremonies",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Resource allocation review for Development",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Resource allocation review for Operations",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Resource allocation review for Research",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Resource allocation review for Analytics",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Create documentation for release management",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Update project timeline for Data Lake",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Create documentation for SLA monitoring",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Update project timeline for Cloud Migration",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Prepare progress report on team productivity",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Monitor KPIs for Team Excellence",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Monitor KPIs for Platform Migration",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Create documentation for continuous integration",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Prepare progress report on process optimization",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Resource allocation review for Operations",
+    "priority": "Medium",
+    "estimated_hours": 5
+  }
+]

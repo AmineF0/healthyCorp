@@ -1,0 +1,776 @@
+[
+  {
+    "date": "2024-11-01",
+    "task": "Technical design review for Real-time Processing",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Optimize Monitoring workflow",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Review Analytics Dashboard architecture design",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Coordinate with DevOps on integration",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Lead sprint planning for Data Validation",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Optimize Deployment workflow",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Lead sprint planning for Feature Engineering",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Optimize Model Training workflow",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Optimize Data Ingestion workflow",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Lead sprint planning for Model Training",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Technical design review for Data Lineage",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Review ML Models architecture design",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Coordinate with Backend on integration",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Review Analytics Dashboard architecture design",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Technical design review for Real-time Processing",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Optimize Data Ingestion workflow",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Review ML Models architecture design",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Lead sprint planning for Feature Engineering",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Lead sprint planning for ETL",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Coordinate with Backend on integration",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Lead sprint planning for ETL",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Optimize Monitoring workflow",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Coordinate with Backend on integration",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-06",
+    "task": "Review API Gateway architecture design",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-06",
+    "task": "Review ML Models architecture design",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-06",
+    "task": "Optimize Data Ingestion workflow",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-06",
+    "task": "Technical design review for Data Lineage",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Review Data Pipeline architecture design",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Review ML Models architecture design",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Coordinate with Backend on integration",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Optimize Data Ingestion workflow",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Technical design review for Data Lineage",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Review API Gateway architecture design",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Coordinate with Backend on integration",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Review Data Pipeline architecture design",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Optimize Data Ingestion workflow",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Technical design review for Automated Data Quality",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Optimize Model Training workflow",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Optimize Deployment workflow",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-11",
+    "task": "Optimize Model Training workflow",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-11",
+    "task": "Review ML Models architecture design",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-11",
+    "task": "Lead sprint planning for Model Training",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-11",
+    "task": "Optimize Monitoring workflow",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-11",
+    "task": "Lead sprint planning for Data Validation",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-11",
+    "task": "Optimize Deployment workflow",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-11",
+    "task": "Review Analytics Dashboard architecture design",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-12",
+    "task": "Optimize Deployment workflow",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-12",
+    "task": "Optimize Model Training workflow",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-12",
+    "task": "Coordinate with Backend on integration",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-12",
+    "task": "Lead sprint planning for ETL",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Review Data Pipeline architecture design",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Lead sprint planning for ETL",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Optimize Data Ingestion workflow",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Technical design review for Real-time Processing",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Lead sprint planning for Model Training",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Coordinate with Data Science on integration",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-14",
+    "task": "Lead sprint planning for Feature Engineering",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-14",
+    "task": "Optimize Data Ingestion workflow",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-14",
+    "task": "Lead sprint planning for Data Validation",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-14",
+    "task": "Optimize Deployment workflow",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-14",
+    "task": "Lead sprint planning for Data Validation",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Lead sprint planning for Data Validation",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Coordinate with Data Science on integration",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Coordinate with Data Science on integration",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Optimize Monitoring workflow",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Optimize Deployment workflow",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Lead sprint planning for Feature Engineering",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Lead sprint planning for Feature Engineering",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-15",
+    "task": "Technical design review for Data Lineage",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-18",
+    "task": "Review ML Models architecture design",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-18",
+    "task": "Review Data Pipeline architecture design",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-18",
+    "task": "Lead sprint planning for ETL",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-18",
+    "task": "Lead sprint planning for Data Validation",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Lead sprint planning for Feature Engineering",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Optimize Model Training workflow",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Review Analytics Dashboard architecture design",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Coordinate with Backend on integration",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Lead sprint planning for Data Validation",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Technical design review for Automated Data Quality",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Lead sprint planning for Model Training",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Technical design review for Data Lineage",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Optimize Monitoring workflow",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Coordinate with Data Science on integration",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Lead sprint planning for ETL",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Technical design review for Model Deployment",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Optimize Data Ingestion workflow",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Coordinate with Backend on integration",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Optimize Model Training workflow",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-22",
+    "task": "Lead sprint planning for Data Validation",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-22",
+    "task": "Technical design review for Data Lineage",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-22",
+    "task": "Optimize Model Training workflow",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-22",
+    "task": "Lead sprint planning for Data Validation",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-22",
+    "task": "Lead sprint planning for Data Validation",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-22",
+    "task": "Lead sprint planning for ETL",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Review Analytics Dashboard architecture design",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Review ML Models architecture design",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Coordinate with Backend on integration",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Review API Gateway architecture design",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Technical design review for Data Lineage",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Optimize Model Training workflow",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Lead sprint planning for ETL",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Optimize Model Training workflow",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Optimize Monitoring workflow",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Lead sprint planning for Model Training",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Optimize Monitoring workflow",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Coordinate with Data Science on integration",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Technical design review for Automated Data Quality",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Coordinate with Backend on integration",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Review ML Models architecture design",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Coordinate with Data Science on integration",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Lead sprint planning for Model Training",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Technical design review for Automated Data Quality",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Optimize Deployment workflow",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Technical design review for Automated Data Quality",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Lead sprint planning for ETL",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Coordinate with DevOps on integration",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Review Data Pipeline architecture design",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Lead sprint planning for Data Validation",
+    "priority": "Low",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Technical design review for Real-time Processing",
+    "priority": "Low",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Review ML Models architecture design",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Lead sprint planning for ETL",
+    "priority": "Low",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Optimize Data Ingestion workflow",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Coordinate with Backend on integration",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Review Data Pipeline architecture design",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Coordinate with DevOps on integration",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Coordinate with QA on integration",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Coordinate with Data Science on integration",
+    "priority": "Low",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Technical design review for Automated Data Quality",
+    "priority": "Low",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Coordinate with DevOps on integration",
+    "priority": "Low",
+    "estimated_hours": 3
+  }
+]
