@@ -2,321 +2,333 @@
   "William Thompson": [
     {
       "date": "2024-11-01",
-      "task": "Technical design review for Real-time Processing",
+      "task": "Lead sprint planning for Data Validation",
       "priority": "High",
-      "estimated_hours": 2
+      "estimated_hours": 3
     },
     {
       "date": "2024-11-01",
-      "task": "Optimize Monitoring workflow",
+      "task": "Technical design review for Automated Data Quality",
       "priority": "Low",
-      "estimated_hours": 5
+      "estimated_hours": 3
     },
     {
       "date": "2024-11-01",
-      "task": "Review Analytics Dashboard architecture design",
-      "priority": "High",
+      "task": "Optimize Data Ingestion workflow",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Lead sprint planning for Model Training",
+      "priority": "Low",
       "estimated_hours": 2
     },
     {
       "date": "2024-11-01",
+      "task": "Review ML Models architecture design",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Coordinate with QA on integration",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Coordinate with Backend on integration",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Lead sprint planning for ETL",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Technical design review for Data Lineage",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-04",
       "task": "Coordinate with DevOps on integration",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Lead sprint planning for Data Validation",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Optimize Deployment workflow",
       "priority": "High",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-01",
+      "date": "2024-11-04",
+      "task": "Review Analytics Dashboard architecture design",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Lead sprint planning for Data Validation",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Optimize Deployment workflow",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Technical design review for Real-time Processing",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Lead sprint planning for Model Training",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Lead sprint planning for ETL",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Optimize Data Ingestion workflow",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Optimize Data Ingestion workflow",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Coordinate with Backend on integration",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Review Analytics Dashboard architecture design",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Optimize Data Ingestion workflow",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-06",
       "task": "Lead sprint planning for Feature Engineering",
       "priority": "Low",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-04",
-      "task": "Optimize Model Training workflow",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Optimize Data Ingestion workflow",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Lead sprint planning for Model Training",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Technical design review for Data Lineage",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Review ML Models architecture design",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Coordinate with Backend on integration",
+      "date": "2024-11-06",
+      "task": "Optimize Deployment workflow",
       "priority": "Low",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-04",
-      "task": "Review Analytics Dashboard architecture design",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-04",
+      "date": "2024-11-06",
       "task": "Technical design review for Real-time Processing",
       "priority": "Medium",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-05",
-      "task": "Optimize Data Ingestion workflow",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Review ML Models architecture design",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Lead sprint planning for Feature Engineering",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Lead sprint planning for ETL",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Coordinate with Backend on integration",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Lead sprint planning for ETL",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Optimize Monitoring workflow",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Coordinate with Backend on integration",
+      "date": "2024-11-06",
+      "task": "Technical design review for Model Deployment",
       "priority": "Low",
       "estimated_hours": 3
     },
     {
       "date": "2024-11-06",
-      "task": "Review API Gateway architecture design",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Review ML Models architecture design",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Optimize Data Ingestion workflow",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Technical design review for Data Lineage",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Review Data Pipeline architecture design",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Review ML Models architecture design",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Coordinate with Backend on integration",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Optimize Data Ingestion workflow",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Technical design review for Data Lineage",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Review API Gateway architecture design",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Coordinate with Backend on integration",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Review Data Pipeline architecture design",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Optimize Data Ingestion workflow",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Technical design review for Automated Data Quality",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Optimize Model Training workflow",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Optimize Deployment workflow",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Optimize Model Training workflow",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Review ML Models architecture design",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Lead sprint planning for Model Training",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Optimize Monitoring workflow",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Lead sprint planning for Data Validation",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Optimize Deployment workflow",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-11",
       "task": "Review Analytics Dashboard architecture design",
       "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Coordinate with QA on integration",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Technical design review for Real-time Processing",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Coordinate with QA on integration",
+      "priority": "High",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-12",
+      "date": "2024-11-07",
+      "task": "Lead sprint planning for Data Validation",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Lead sprint planning for ETL",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Optimize Model Training workflow",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Coordinate with Data Science on integration",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Coordinate with Data Science on integration",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Coordinate with Data Science on integration",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-08",
       "task": "Optimize Deployment workflow",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Review API Gateway architecture design",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Technical design review for Data Lineage",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Optimize Model Training workflow",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Coordinate with Data Science on integration",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Review API Gateway architecture design",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Lead sprint planning for Feature Engineering",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Coordinate with Backend on integration",
       "priority": "Low",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-12",
+      "date": "2024-11-11",
+      "task": "Technical design review for Data Lineage",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Coordinate with QA on integration",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-11",
       "task": "Optimize Model Training workflow",
       "priority": "Low",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-12",
-      "task": "Coordinate with Backend on integration",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Lead sprint planning for ETL",
-      "priority": "Medium",
+      "date": "2024-11-11",
+      "task": "Optimize Data Ingestion workflow",
+      "priority": "High",
       "estimated_hours": 6
     },
     {
-      "date": "2024-11-13",
-      "task": "Review Data Pipeline architecture design",
-      "priority": "High",
+      "date": "2024-11-11",
+      "task": "Lead sprint planning for ETL",
+      "priority": "Low",
       "estimated_hours": 2
     },
     {
+      "date": "2024-11-11",
+      "task": "Coordinate with QA on integration",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Lead sprint planning for Feature Engineering",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Technical design review for Automated Data Quality",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Technical design review for Model Deployment",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Technical design review for Automated Data Quality",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
       "date": "2024-11-13",
-      "task": "Lead sprint planning for ETL",
+      "task": "Review ML Models architecture design",
       "priority": "Medium",
       "estimated_hours": 2
     },
     {
       "date": "2024-11-13",
-      "task": "Optimize Data Ingestion workflow",
+      "task": "Coordinate with QA on integration",
       "priority": "Low",
-      "estimated_hours": 2
+      "estimated_hours": 3
     },
     {
       "date": "2024-11-13",
@@ -326,2749 +338,2623 @@
     },
     {
       "date": "2024-11-13",
-      "task": "Lead sprint planning for Model Training",
+      "task": "Review API Gateway architecture design",
       "priority": "High",
       "estimated_hours": 6
     },
     {
       "date": "2024-11-13",
-      "task": "Coordinate with Data Science on integration",
-      "priority": "Medium",
+      "task": "Lead sprint planning for Data Validation",
+      "priority": "Low",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-14",
-      "task": "Lead sprint planning for Feature Engineering",
+      "date": "2024-11-13",
+      "task": "Optimize Data Ingestion workflow",
       "priority": "High",
-      "estimated_hours": 6
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Technical design review for Real-time Processing",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Optimize Monitoring workflow",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Lead sprint planning for Data Validation",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Lead sprint planning for Model Training",
+      "priority": "Low",
+      "estimated_hours": 4
     },
     {
       "date": "2024-11-14",
       "task": "Optimize Data Ingestion workflow",
-      "priority": "Low",
+      "priority": "Medium",
       "estimated_hours": 3
     },
     {
       "date": "2024-11-14",
-      "task": "Lead sprint planning for Data Validation",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Optimize Deployment workflow",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Lead sprint planning for Data Validation",
+      "task": "Review Analytics Dashboard architecture design",
       "priority": "Medium",
       "estimated_hours": 2
     },
     {
-      "date": "2024-11-15",
-      "task": "Lead sprint planning for Data Validation",
-      "priority": "Low",
+      "date": "2024-11-14",
+      "task": "Lead sprint planning for Model Training",
+      "priority": "High",
       "estimated_hours": 5
     },
     {
       "date": "2024-11-15",
-      "task": "Coordinate with Data Science on integration",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Coordinate with Data Science on integration",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Optimize Monitoring workflow",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Optimize Deployment workflow",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Lead sprint planning for Feature Engineering",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Lead sprint planning for Feature Engineering",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Technical design review for Data Lineage",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Review ML Models architecture design",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Review Data Pipeline architecture design",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Lead sprint planning for ETL",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Lead sprint planning for Data Validation",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-19",
       "task": "Lead sprint planning for Feature Engineering",
       "priority": "Medium",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-19",
-      "task": "Optimize Model Training workflow",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-19",
+      "date": "2024-11-15",
       "task": "Review Analytics Dashboard architecture design",
       "priority": "High",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-19",
-      "task": "Coordinate with Backend on integration",
+      "date": "2024-11-15",
+      "task": "Optimize Monitoring workflow",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Review Analytics Dashboard architecture design",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Review Analytics Dashboard architecture design",
       "priority": "Medium",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-19",
-      "task": "Lead sprint planning for Data Validation",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Technical design review for Automated Data Quality",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Lead sprint planning for Model Training",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Technical design review for Data Lineage",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Optimize Monitoring workflow",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Coordinate with Data Science on integration",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Lead sprint planning for ETL",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-21",
+      "date": "2024-11-15",
       "task": "Technical design review for Model Deployment",
       "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Optimize Data Ingestion workflow",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Coordinate with Backend on integration",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Optimize Model Training workflow",
-      "priority": "Medium",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-22",
-      "task": "Lead sprint planning for Data Validation",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Technical design review for Data Lineage",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Optimize Model Training workflow",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Lead sprint planning for Data Validation",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Lead sprint planning for Data Validation",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Lead sprint planning for ETL",
+      "date": "2024-11-15",
+      "task": "Lead sprint planning for Model Training",
       "priority": "High",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-25",
-      "task": "Review Analytics Dashboard architecture design",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Review ML Models architecture design",
+      "date": "2024-11-15",
+      "task": "Technical design review for Automated Data Quality",
       "priority": "Low",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-25",
-      "task": "Coordinate with Backend on integration",
+      "date": "2024-11-18",
+      "task": "Technical design review for Real-time Processing",
       "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Review API Gateway architecture design",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Technical design review for Data Lineage",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Optimize Model Training workflow",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Lead sprint planning for ETL",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Optimize Model Training workflow",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Optimize Monitoring workflow",
-      "priority": "Low",
       "estimated_hours": 6
     },
     {
-      "date": "2024-11-26",
-      "task": "Lead sprint planning for Model Training",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Optimize Monitoring workflow",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Coordinate with Data Science on integration",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Technical design review for Automated Data Quality",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Coordinate with Backend on integration",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Review ML Models architecture design",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Coordinate with Data Science on integration",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Lead sprint planning for Model Training",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Technical design review for Automated Data Quality",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Optimize Deployment workflow",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Technical design review for Automated Data Quality",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Lead sprint planning for ETL",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Coordinate with DevOps on integration",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-28",
+      "date": "2024-11-18",
       "task": "Review Data Pipeline architecture design",
       "priority": "High",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-28",
+      "date": "2024-11-18",
+      "task": "Coordinate with Data Science on integration",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Coordinate with Backend on integration",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Review Data Pipeline architecture design",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Review ML Models architecture design",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Optimize Monitoring workflow",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Review ML Models architecture design",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Technical design review for Model Deployment",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Coordinate with Data Science on integration",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Review ML Models architecture design",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Review Data Pipeline architecture design",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Optimize Data Ingestion workflow",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Review API Gateway architecture design",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Technical design review for Model Deployment",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Review API Gateway architecture design",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Lead sprint planning for Feature Engineering",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Lead sprint planning for ETL",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Optimize Deployment workflow",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Coordinate with DevOps on integration",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Coordinate with Backend on integration",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Coordinate with DevOps on integration",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Lead sprint planning for Model Training",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Technical design review for Real-time Processing",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
       "task": "Lead sprint planning for Data Validation",
       "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Optimize Model Training workflow",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Lead sprint planning for ETL",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Review API Gateway architecture design",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Technical design review for Model Deployment",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Review API Gateway architecture design",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Optimize Monitoring workflow",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Lead sprint planning for Model Training",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Optimize Data Ingestion workflow",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Coordinate with QA on integration",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Technical design review for Real-time Processing",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Coordinate with Backend on integration",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Review Analytics Dashboard architecture design",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Optimize Data Ingestion workflow",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Lead sprint planning for Feature Engineering",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Lead sprint planning for Feature Engineering",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Review ML Models architecture design",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Technical design review for Model Deployment",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Lead sprint planning for Model Training",
+      "priority": "High",
       "estimated_hours": 2
     },
     {
       "date": "2024-11-28",
       "task": "Technical design review for Real-time Processing",
       "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Optimize Deployment workflow",
+      "priority": "Medium",
       "estimated_hours": 3
     },
     {
       "date": "2024-11-28",
-      "task": "Review ML Models architecture design",
-      "priority": "Low",
+      "task": "Lead sprint planning for ETL",
+      "priority": "High",
       "estimated_hours": 4
     },
     {
       "date": "2024-11-28",
-      "task": "Lead sprint planning for ETL",
+      "task": "Technical design review for Automated Data Quality",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Review Data Pipeline architecture design",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Lead sprint planning for Feature Engineering",
       "priority": "Low",
       "estimated_hours": 6
     },
     {
       "date": "2024-11-28",
-      "task": "Optimize Data Ingestion workflow",
+      "task": "Review ML Models architecture design",
       "priority": "Medium",
-      "estimated_hours": 6
+      "estimated_hours": 2
     },
     {
       "date": "2024-11-28",
-      "task": "Coordinate with Backend on integration",
-      "priority": "Medium",
+      "task": "Optimize Deployment workflow",
+      "priority": "Low",
       "estimated_hours": 4
     },
     {
       "date": "2024-11-29",
-      "task": "Review Data Pipeline architecture design",
-      "priority": "High",
+      "task": "Lead sprint planning for Model Training",
+      "priority": "Medium",
       "estimated_hours": 5
     },
     {
       "date": "2024-11-29",
-      "task": "Coordinate with DevOps on integration",
+      "task": "Review API Gateway architecture design",
       "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Review ML Models architecture design",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Technical design review for Model Deployment",
+      "priority": "Low",
       "estimated_hours": 5
     },
     {
       "date": "2024-11-29",
       "task": "Coordinate with QA on integration",
-      "priority": "Medium",
+      "priority": "High",
       "estimated_hours": 2
     },
     {
       "date": "2024-11-29",
-      "task": "Coordinate with Data Science on integration",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Technical design review for Automated Data Quality",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Coordinate with DevOps on integration",
-      "priority": "Low",
-      "estimated_hours": 3
+      "task": "Review Analytics Dashboard architecture design",
+      "priority": "Medium",
+      "estimated_hours": 2
     }
   ],
   "Sarah Mitchell": [
     {
       "date": "2024-11-01",
-      "task": "Create unit tests for Error Handling",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Implement Logging System in ETL Pipeline",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Write documentation for Data Processing",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Implement Error Handling in Monitoring System",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Write documentation for Quality Checks",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Implement Logging System in Model Server",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Create unit tests for Data Validation",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Optimize Monitoring System performance",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Debug Memory Usage in Data Intake",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Create unit tests for Data Validation",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Optimize Model Server performance",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Write documentation for Quality Checks",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Implement Logging System in ETL Pipeline",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Debug Error Handling in Data Intake",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Write documentation for Error Recovery",
+      "task": "Optimize ETL Pipeline performance",
       "priority": "High",
       "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Implement Logging System in ETL Pipeline",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Create unit tests for Monitoring Alerts",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Debug Memory Usage in Analysis",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Create unit tests for Data Validation",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Create unit tests for Logging System",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Debug Memory Usage in Processing",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Optimize Data Processor performance",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Write documentation for Data Processing",
+      "priority": "Low",
+      "estimated_hours": 2
     },
     {
       "date": "2024-11-05",
       "task": "Debug Error Handling in Analysis",
-      "priority": "Low",
+      "priority": "Medium",
       "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Write documentation for Data Processing",
-      "priority": "Low",
-      "estimated_hours": 6
     },
     {
       "date": "2024-11-05",
       "task": "Create unit tests for Logging System",
       "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Optimize Data Processor performance",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Create unit tests for Monitoring Alerts",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Optimize Monitoring System performance",
+      "priority": "High",
       "estimated_hours": 2
     },
     {
       "date": "2024-11-06",
-      "task": "Write documentation for Monitoring",
-      "priority": "Medium",
-      "estimated_hours": 6
+      "task": "Optimize Monitoring System performance",
+      "priority": "Low",
+      "estimated_hours": 5
     },
     {
       "date": "2024-11-06",
-      "task": "Debug Error Handling in Data Intake",
+      "task": "Implement Logging System in Data Processor",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Debug Data Quality in Storage",
       "priority": "Low",
       "estimated_hours": 4
     },
     {
       "date": "2024-11-06",
       "task": "Optimize ETL Pipeline performance",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Debug Error Handling in Analysis",
       "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Write documentation for Data Processing",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Implement Monitoring Alerts in Data Processor",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Create unit tests for Monitoring Alerts",
-      "priority": "Low",
-      "estimated_hours": 6
+      "estimated_hours": 5
     },
     {
       "date": "2024-11-07",
       "task": "Implement Logging System in Data Processor",
       "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Implement Logging System in ETL Pipeline",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Create unit tests for Error Handling",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Implement Monitoring Alerts in Model Server",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Debug Performance in Analysis",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Write documentation for Data Processing",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Write documentation for Monitoring",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Implement Logging System in Monitoring System",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Implement Monitoring Alerts in Model Server",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Write documentation for Data Processing",
-      "priority": "High",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-11",
-      "task": "Create unit tests for Monitoring Alerts",
+      "date": "2024-11-07",
+      "task": "Implement Logging System in Data Processor",
       "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Debug Data Quality in Processing",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Write documentation for Quality Checks",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Optimize Monitoring System performance",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Implement Monitoring Alerts in Model Server",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Implement Data Validation in Model Server",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Create unit tests for Error Handling",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Optimize Data Processor performance",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Debug Data Quality in Data Intake",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Debug Memory Usage in Processing",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Create unit tests for Data Validation",
+      "priority": "High",
       "estimated_hours": 6
     },
     {
       "date": "2024-11-11",
       "task": "Write documentation for Error Recovery",
-      "priority": "Low",
-      "estimated_hours": 3
+      "priority": "High",
+      "estimated_hours": 4
     },
     {
       "date": "2024-11-11",
-      "task": "Implement Error Handling in Model Server",
-      "priority": "Low",
+      "task": "Write documentation for Error Recovery",
+      "priority": "Medium",
       "estimated_hours": 6
     },
     {
       "date": "2024-11-11",
-      "task": "Create unit tests for Monitoring Alerts",
+      "task": "Optimize ETL Pipeline performance",
       "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Write documentation for Monitoring",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Debug Performance in Data Intake",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "Low",
       "estimated_hours": 6
     },
     {
       "date": "2024-11-11",
       "task": "Optimize Model Server performance",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Write documentation for Error Recovery",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Implement Logging System in ETL Pipeline",
       "priority": "High",
       "estimated_hours": 3
     },
     {
       "date": "2024-11-12",
+      "task": "Optimize Monitoring System performance",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Write documentation for Error Recovery",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Create unit tests for Logging System",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Write documentation for Error Recovery",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Write documentation for Data Processing",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Create unit tests for Data Validation",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Create unit tests for Monitoring Alerts",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Write documentation for Error Recovery",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Debug Performance in Analysis",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Implement Monitoring Alerts in Monitoring System",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Debug Performance in Processing",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Debug Data Quality in Processing",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Debug Data Quality in Analysis",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Implement Logging System in ETL Pipeline",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Write documentation for Data Processing",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Write documentation for Monitoring",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Write documentation for Error Recovery",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Optimize Monitoring System performance",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Create unit tests for Data Validation",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Debug Performance in Processing",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Debug Error Handling in Processing",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Create unit tests for Error Handling",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Implement Monitoring Alerts in Data Processor",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Debug Performance in Storage",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Debug Data Quality in Data Intake",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Optimize Data Processor performance",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Implement Error Handling in Model Server",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Optimize Monitoring System performance",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Create unit tests for Logging System",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Write documentation for Quality Checks",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Debug Performance in Analysis",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Create unit tests for Monitoring Alerts",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Debug Performance in Data Intake",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Write documentation for Quality Checks",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Create unit tests for Logging System",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Create unit tests for Logging System",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Write documentation for Monitoring",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Implement Error Handling in ETL Pipeline",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Write documentation for Error Recovery",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Implement Data Validation in Monitoring System",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Write documentation for Quality Checks",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Implement Monitoring Alerts in Model Server",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Write documentation for Data Processing",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Optimize Model Server performance",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Debug Performance in Storage",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Implement Error Handling in ETL Pipeline",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Debug Data Quality in Processing",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Optimize Model Server performance",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Create unit tests for Data Validation",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Implement Error Handling in Model Server",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Create unit tests for Error Handling",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Create unit tests for Error Handling",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-27",
       "task": "Debug Performance in Data Intake",
       "priority": "Medium",
       "estimated_hours": 2
     },
     {
-      "date": "2024-11-12",
-      "task": "Create unit tests for Data Validation",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Implement Logging System in ETL Pipeline",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Create unit tests for Monitoring Alerts",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Create unit tests for Logging System",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Debug Error Handling in Storage",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Optimize Data Processor performance",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Optimize ETL Pipeline performance",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-13",
+      "date": "2024-11-27",
       "task": "Optimize Model Server performance",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Debug Error Handling in Processing",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Write documentation for Monitoring",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Create unit tests for Monitoring Alerts",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Implement Monitoring Alerts in Data Processor",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Debug Performance in Processing",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Optimize Data Processor performance",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Optimize ETL Pipeline performance",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Optimize Data Processor performance",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Create unit tests for Error Handling",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Write documentation for Error Recovery",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Implement Error Handling in Monitoring System",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Optimize Data Processor performance",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Optimize Model Server performance",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Write documentation for Error Recovery",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Optimize Data Processor performance",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Optimize Data Processor performance",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Create unit tests for Error Handling",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Create unit tests for Monitoring Alerts",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Optimize Monitoring System performance",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Implement Data Validation in ETL Pipeline",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Create unit tests for Error Handling",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Optimize Monitoring System performance",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Debug Data Quality in Storage",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Implement Logging System in Monitoring System",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Implement Error Handling in Data Processor",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Optimize ETL Pipeline performance",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Implement Logging System in ETL Pipeline",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Optimize Monitoring System performance",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Write documentation for Data Processing",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Create unit tests for Logging System",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Debug Performance in Analysis",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Debug Error Handling in Data Intake",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Create unit tests for Data Validation",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Write documentation for Data Processing",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Debug Error Handling in Processing",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Optimize Monitoring System performance",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Implement Logging System in ETL Pipeline",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Write documentation for Quality Checks",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Optimize ETL Pipeline performance",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Write documentation for Data Processing",
       "priority": "Low",
       "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Debug Data Quality in Analysis",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Debug Data Quality in Data Intake",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Create unit tests for Data Validation",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Write documentation for Error Recovery",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Optimize Data Processor performance",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Implement Error Handling in Model Server",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Create unit tests for Error Handling",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Debug Data Quality in Data Intake",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Create unit tests for Logging System",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Implement Data Validation in ETL Pipeline",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Write documentation for Error Recovery",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Write documentation for Error Recovery",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Implement Monitoring Alerts in Model Server",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Debug Error Handling in Data Intake",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Optimize Data Processor performance",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Implement Logging System in ETL Pipeline",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Debug Data Quality in Data Intake",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Create unit tests for Monitoring Alerts",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Create unit tests for Error Handling",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Debug Memory Usage in Analysis",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Create unit tests for Monitoring Alerts",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Optimize Data Processor performance",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Create unit tests for Error Handling",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Write documentation for Data Processing",
-      "priority": "Low",
-      "estimated_hours": 6
     },
     {
       "date": "2024-11-27",
-      "task": "Implement Data Validation in ETL Pipeline",
-      "priority": "Medium",
+      "task": "Create unit tests for Monitoring Alerts",
+      "priority": "Low",
       "estimated_hours": 5
     },
     {
       "date": "2024-11-27",
       "task": "Implement Data Validation in Monitoring System",
-      "priority": "Medium",
-      "estimated_hours": 5
+      "priority": "High",
+      "estimated_hours": 2
     },
     {
       "date": "2024-11-27",
-      "task": "Write documentation for Quality Checks",
-      "priority": "High",
+      "task": "Write documentation for Data Processing",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Write documentation for Error Recovery",
+      "priority": "Low",
       "estimated_hours": 3
     },
     {
       "date": "2024-11-27",
-      "task": "Create unit tests for Data Validation",
+      "task": "Optimize Model Server performance",
       "priority": "Medium",
-      "estimated_hours": 4
+      "estimated_hours": 3
     },
     {
-      "date": "2024-11-27",
-      "task": "Write documentation for Quality Checks",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Write documentation for Quality Checks",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-27",
+      "date": "2024-11-28",
       "task": "Implement Data Validation in Data Processor",
       "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Optimize Monitoring System performance",
-      "priority": "High",
       "estimated_hours": 4
     },
     {
       "date": "2024-11-28",
-      "task": "Debug Data Quality in Analysis",
-      "priority": "High",
-      "estimated_hours": 5
+      "task": "Debug Performance in Processing",
+      "priority": "Low",
+      "estimated_hours": 6
     },
     {
       "date": "2024-11-28",
-      "task": "Optimize Model Server performance",
-      "priority": "Low",
+      "task": "Create unit tests for Error Handling",
+      "priority": "Medium",
       "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Implement Logging System in Data Processor",
-      "priority": "Low",
-      "estimated_hours": 2
     },
     {
       "date": "2024-11-28",
       "task": "Optimize ETL Pipeline performance",
-      "priority": "Low",
-      "estimated_hours": 2
+      "priority": "High",
+      "estimated_hours": 4
     },
     {
       "date": "2024-11-28",
-      "task": "Write documentation for Error Recovery",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Debug Data Quality in Storage",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Optimize Monitoring System performance",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Write documentation for Quality Checks",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Optimize Data Processor performance",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Create unit tests for Logging System",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Implement Logging System in Monitoring System",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Debug Error Handling in Processing",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-29",
       "task": "Implement Error Handling in Data Processor",
       "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Debug Error Handling in Storage",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Implement Logging System in ETL Pipeline",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Create unit tests for Monitoring Alerts",
+      "priority": "High",
       "estimated_hours": 6
     },
     {
       "date": "2024-11-29",
-      "task": "Optimize Monitoring System performance",
+      "task": "Write documentation for Data Processing",
       "priority": "Medium",
-      "estimated_hours": 3
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Debug Error Handling in Storage",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Debug Performance in Data Intake",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Optimize ETL Pipeline performance",
+      "priority": "Medium",
+      "estimated_hours": 4
     }
   ],
   "Omar Al-Sayed": [
     {
       "date": "2024-11-01",
-      "task": "Review Storage Systems documentation",
+      "task": "Analyze System Health performance",
       "priority": "High",
-      "estimated_hours": 5
+      "estimated_hours": 6
     },
     {
       "date": "2024-11-01",
-      "task": "Analyze Response Time performance",
+      "task": "Create test cases for Performance Monitoring",
       "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Review Storage Systems documentation",
-      "priority": "High",
-      "estimated_hours": 2
+      "estimated_hours": 6
     },
     {
       "date": "2024-11-01",
       "task": "Analyze Data Quality performance",
       "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Analyze System Health performance",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Develop Documentation for Development",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Analyze System Health performance",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Develop Testing for Development",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Develop Code Review for Testing",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Create test cases for Logging",
-      "priority": "Low",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-04",
-      "task": "Review Backend Services documentation",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Create test cases for Performance Monitoring",
+      "date": "2024-11-01",
+      "task": "Implement Testing best practices",
       "priority": "High",
-      "estimated_hours": 5
+      "estimated_hours": 6
     },
     {
-      "date": "2024-11-05",
+      "date": "2024-11-01",
       "task": "Develop Testing for Monitoring",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Develop Documentation for Testing",
       "priority": "Low",
-      "estimated_hours": 4
+      "estimated_hours": 5
     },
     {
-      "date": "2024-11-05",
-      "task": "Review Data Pipeline documentation",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Analyze Response Time performance",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Create test cases for Error Handling",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Implement Testing best practices",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Create test cases for Logging",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-06",
+      "date": "2024-11-01",
       "task": "Review Backend Services documentation",
       "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Review Storage Systems documentation",
-      "priority": "Low",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-06",
-      "task": "Develop Code Review for Development",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Develop Quality Gates for Testing",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Analyze Response Time performance",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Implement DevOps best practices",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-07",
+      "date": "2024-11-01",
       "task": "Create test cases for Performance Monitoring",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Develop Documentation for Monitoring",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Review Storage Systems documentation",
       "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Create test cases for Error Handling",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Implement DevOps best practices",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Develop Testing for Testing",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Review Backend Services documentation",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Implement Development best practices",
-      "priority": "Medium",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-11",
-      "task": "Develop Code Review for Development",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Develop Testing for Deployment",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Review API Layer documentation",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Analyze Error Rate performance",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Develop Documentation for Deployment",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Analyze Data Quality performance",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Analyze Error Rate performance",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Create test cases for Performance Monitoring",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Analyze Error Rate performance",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Analyze System Health performance",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Review API Layer documentation",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Review Storage Systems documentation",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Develop Documentation for Testing",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Review Data Pipeline documentation",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Implement Testing best practices",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Create test cases for Logging",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Analyze Response Time performance",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Analyze Response Time performance",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Develop Documentation for Development",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Develop Documentation for Development",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Create test cases for Logging",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Create test cases for Logging",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Analyze Data Quality performance",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Develop Documentation for Testing",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Review Backend Services documentation",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-14",
+      "date": "2024-11-04",
       "task": "Develop Code Review for Monitoring",
       "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Analyze Response Time performance",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Review Data Pipeline documentation",
-      "priority": "Medium",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-15",
-      "task": "Implement Development best practices",
-      "priority": "Low",
-      "estimated_hours": 2
+      "date": "2024-11-04",
+      "task": "Review Data Pipeline documentation",
+      "priority": "Medium",
+      "estimated_hours": 5
     },
     {
-      "date": "2024-11-15",
+      "date": "2024-11-04",
       "task": "Analyze Response Time performance",
-      "priority": "High",
-      "estimated_hours": 2
+      "priority": "Low",
+      "estimated_hours": 3
     },
     {
-      "date": "2024-11-15",
-      "task": "Analyze System Health performance",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-15",
+      "date": "2024-11-04",
       "task": "Review API Layer documentation",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Review Backend Services documentation",
-      "priority": "High",
+      "priority": "Low",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-15",
-      "task": "Implement Development best practices",
+      "date": "2024-11-05",
+      "task": "Create test cases for Performance Monitoring",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Analyze Response Time performance",
       "priority": "High",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-18",
-      "task": "Create test cases for Error Handling",
+      "date": "2024-11-05",
+      "task": "Analyze Data Quality performance",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Create test cases for Performance Monitoring",
       "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Create test cases for Logging",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Implement Testing best practices",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Implement Development best practices",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Review API Layer documentation",
+      "priority": "Low",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-18",
-      "task": "Analyze Data Quality performance",
+      "date": "2024-11-06",
+      "task": "Review Data Pipeline documentation",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Review Backend Services documentation",
       "priority": "Medium",
       "estimated_hours": 6
     },
     {
-      "date": "2024-11-18",
-      "task": "Review Data Pipeline documentation",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Create test cases for Data Validation",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Implement Development best practices",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Create test cases for Logging",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Develop Code Review for Deployment",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Implement Development best practices",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Review Backend Services documentation",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Review Storage Systems documentation",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Develop Quality Gates for Testing",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Develop Documentation for Monitoring",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Create test cases for Logging",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Review Backend Services documentation",
+      "date": "2024-11-06",
+      "task": "Create test cases for Performance Monitoring",
       "priority": "Low",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-20",
-      "task": "Analyze Response Time performance",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Review Storage Systems documentation",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Create test cases for Logging",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-20",
+      "date": "2024-11-06",
       "task": "Develop Documentation for Development",
       "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Create test cases for Error Handling",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Analyze Error Rate performance",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Create test cases for Performance Monitoring",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Create test cases for Data Validation",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Implement Documentation best practices",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Review Data Pipeline documentation",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Analyze Error Rate performance",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Develop Documentation for Monitoring",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Review Storage Systems documentation",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Review API Layer documentation",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Analyze System Health performance",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Create test cases for Error Handling",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Develop Testing for Deployment",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Implement Documentation best practices",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Analyze System Health performance",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Create test cases for Error Handling",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Develop Quality Gates for Development",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Review API Layer documentation",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Create test cases for Data Validation",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Develop Code Review for Development",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Develop Testing for Development",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Develop Testing for Monitoring",
-      "priority": "Low",
       "estimated_hours": 6
     },
     {
-      "date": "2024-11-26",
-      "task": "Create test cases for Data Validation",
-      "priority": "High",
+      "date": "2024-11-06",
+      "task": "Analyze Data Quality performance",
+      "priority": "Low",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-27",
+      "date": "2024-11-06",
       "task": "Create test cases for Error Handling",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Develop Testing for Testing",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Analyze Error Rate performance",
       "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Create test cases for Performance Monitoring",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Analyze Data Quality performance",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Develop Testing for Testing",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Analyze System Health performance",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Develop Code Review for Development",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Review Data Pipeline documentation",
+      "priority": "Low",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-27",
+      "date": "2024-11-08",
       "task": "Analyze Data Quality performance",
       "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Review Data Pipeline documentation",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Analyze Error Rate performance",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Create test cases for Data Validation",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Analyze Error Rate performance",
-      "priority": "Low",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-28",
-      "task": "Implement Development best practices",
+      "date": "2024-11-08",
+      "task": "Analyze Error Rate performance",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Review Data Pipeline documentation",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Create test cases for Performance Monitoring",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Develop Testing for Deployment",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Implement DevOps best practices",
       "priority": "High",
       "estimated_hours": 6
     },
     {
-      "date": "2024-11-28",
-      "task": "Develop Documentation for Testing",
+      "date": "2024-11-11",
+      "task": "Create test cases for Logging",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Review Data Pipeline documentation",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Review Storage Systems documentation",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Implement DevOps best practices",
       "priority": "Medium",
       "estimated_hours": 2
     },
     {
-      "date": "2024-11-28",
+      "date": "2024-11-12",
+      "task": "Develop Documentation for Testing",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Implement Testing best practices",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Analyze System Health performance",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Implement Development best practices",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Review Storage Systems documentation",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Develop Quality Gates for Monitoring",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Create test cases for Logging",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Develop Quality Gates for Testing",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Implement Testing best practices",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Implement Development best practices",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Create test cases for Logging",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Analyze Response Time performance",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Develop Code Review for Deployment",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Create test cases for Error Handling",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-14",
       "task": "Create test cases for Performance Monitoring",
       "priority": "Medium",
       "estimated_hours": 2
     },
     {
-      "date": "2024-11-28",
+      "date": "2024-11-14",
       "task": "Implement Development best practices",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Implement Documentation best practices",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Analyze Data Quality performance",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Create test cases for Data Validation",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Analyze System Health performance",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Develop Documentation for Development",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Develop Testing for Testing",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Develop Quality Gates for Monitoring",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Implement Testing best practices",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Create test cases for Data Validation",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Create test cases for Logging",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Analyze Data Quality performance",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Review API Layer documentation",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Implement Development best practices",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Review Storage Systems documentation",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Develop Code Review for Development",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Create test cases for Data Validation",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Develop Documentation for Testing",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Develop Quality Gates for Testing",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Develop Code Review for Deployment",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Analyze Data Quality performance",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Develop Documentation for Testing",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Analyze Response Time performance",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Develop Quality Gates for Deployment",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Implement Testing best practices",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Develop Quality Gates for Deployment",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Implement DevOps best practices",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Analyze Response Time performance",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Develop Documentation for Deployment",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Develop Documentation for Testing",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Analyze System Health performance",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Review API Layer documentation",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Implement Testing best practices",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Implement Testing best practices",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Review API Layer documentation",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Develop Quality Gates for Testing",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Develop Documentation for Monitoring",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Review Storage Systems documentation",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Develop Quality Gates for Deployment",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Analyze Response Time performance",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Review Backend Services documentation",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Analyze Response Time performance",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Analyze Error Rate performance",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Implement Development best practices",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Develop Testing for Development",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Analyze System Health performance",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Implement Development best practices",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Implement Documentation best practices",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Create test cases for Error Handling",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Create test cases for Performance Monitoring",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Implement Testing best practices",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Review API Layer documentation",
       "priority": "Medium",
       "estimated_hours": 4
     },
     {
       "date": "2024-11-29",
-      "task": "Develop Testing for Monitoring",
+      "task": "Review API Layer documentation",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Create test cases for Error Handling",
       "priority": "Low",
       "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Create test cases for Logging",
+      "priority": "Low",
+      "estimated_hours": 5
     },
     {
       "date": "2024-11-29",
       "task": "Analyze Response Time performance",
       "priority": "Low",
       "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Review Storage Systems documentation",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Create test cases for Logging",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Implement Documentation best practices",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Create test cases for Data Validation",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Create test cases for Error Handling",
-      "priority": "Medium",
-      "estimated_hours": 4
     }
   ],
   "Mariam Al-Hashimi": [
     {
       "date": "2024-11-01",
-      "task": "Prototype Adaptive Learning implementation",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-01",
       "task": "Lead Engineering innovation workshop",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Evaluate ML Frameworks for Quality",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Lead Research innovation workshop",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Design Tools improvement plan",
-      "priority": "Medium",
+      "priority": "Low",
       "estimated_hours": 5
     },
     {
       "date": "2024-11-01",
       "task": "Lead Product innovation workshop",
       "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Lead Data Science innovation workshop",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Prototype Adaptive Learning implementation",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Research AutoML for Anomaly Detection",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Design Infrastructure improvement plan",
-      "priority": "Medium",
       "estimated_hours": 6
     },
     {
-      "date": "2024-11-04",
-      "task": "Evaluate Analytics Tools for Quality",
+      "date": "2024-11-01",
+      "task": "Design Tools improvement plan",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Evaluate Analytics Tools for Performance",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Design Tools improvement plan",
       "priority": "Medium",
       "estimated_hours": 2
     },
     {
       "date": "2024-11-04",
-      "task": "Evaluate Monitoring Systems for Performance",
+      "task": "Evaluate Analytics Tools for Performance",
       "priority": "High",
-      "estimated_hours": 3
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Lead Engineering innovation workshop",
+      "priority": "High",
+      "estimated_hours": 2
     },
     {
       "date": "2024-11-04",
       "task": "Research Machine Learning for Predictive Maintenance",
-      "priority": "Low",
-      "estimated_hours": 4
+      "priority": "Medium",
+      "estimated_hours": 6
     },
     {
       "date": "2024-11-04",
-      "task": "Design Models improvement plan",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Design Models improvement plan",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Design Pipeline improvement plan",
+      "task": "Research AutoML for Anomaly Detection",
       "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Prototype Automated Pipeline implementation",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Lead Product innovation workshop",
-      "priority": "High",
-      "estimated_hours": 6
+      "estimated_hours": 3
     },
     {
       "date": "2024-11-05",
       "task": "Design Infrastructure improvement plan",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Prototype Automated Pipeline implementation",
       "priority": "High",
       "estimated_hours": 2
     },
     {
-      "date": "2024-11-06",
-      "task": "Design Infrastructure improvement plan",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Evaluate ML Frameworks for Quality",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Lead Data Science innovation workshop",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Research Real-time Analytics for Fraud Detection",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-06",
+      "date": "2024-11-05",
       "task": "Research AutoML for Predictive Maintenance",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Prototype Smart Monitoring implementation",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Lead Product innovation workshop",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Prototype Adaptive Learning implementation",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Research Stream Processing for Predictive Maintenance",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Research Stream Processing for Anomaly Detection",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Prototype Smart Monitoring implementation",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Design Models improvement plan",
       "priority": "Medium",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-07",
-      "task": "Design Infrastructure improvement plan",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Design Tools improvement plan",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Evaluate Monitoring Systems for Performance",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Evaluate Development Tools for Performance",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Lead Data Science innovation workshop",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Design Models improvement plan",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Lead Product innovation workshop",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Prototype Adaptive Learning implementation",
+      "date": "2024-11-05",
+      "task": "Research Machine Learning for Fraud Detection",
       "priority": "High",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-11",
-      "task": "Lead Engineering innovation workshop",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Research Stream Processing for Predictive Maintenance",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Lead Data Science innovation workshop",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Prototype Automated Pipeline implementation",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Lead Product innovation workshop",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-11",
+      "date": "2024-11-05",
       "task": "Design Pipeline improvement plan",
       "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Prototype Automated Pipeline implementation",
-      "priority": "Medium",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-12",
-      "task": "Design Infrastructure improvement plan",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Research Real-time Analytics for Recommendation Engine",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Lead Data Science innovation workshop",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Lead Engineering innovation workshop",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Lead Engineering innovation workshop",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Evaluate Analytics Tools for Quality",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Research Stream Processing for Anomaly Detection",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Evaluate Analytics Tools for Automation",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Design Tools improvement plan",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-13",
+      "date": "2024-11-05",
       "task": "Lead Product innovation workshop",
-      "priority": "Low",
-      "estimated_hours": 2
+      "priority": "High",
+      "estimated_hours": 6
     },
     {
-      "date": "2024-11-14",
+      "date": "2024-11-05",
       "task": "Evaluate Analytics Tools for Efficiency",
-      "priority": "Low",
-      "estimated_hours": 2
+      "priority": "High",
+      "estimated_hours": 4
     },
     {
-      "date": "2024-11-14",
-      "task": "Evaluate Development Tools for Efficiency",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Lead Product innovation workshop",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Research Stream Processing for Anomaly Detection",
+      "date": "2024-11-05",
+      "task": "Prototype Self-healing System implementation",
       "priority": "Medium",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-14",
-      "task": "Evaluate Monitoring Systems for Quality",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-15",
+      "date": "2024-11-06",
       "task": "Design Pipeline improvement plan",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Prototype Adaptive Learning implementation",
       "priority": "High",
       "estimated_hours": 6
     },
     {
-      "date": "2024-11-15",
-      "task": "Prototype Adaptive Learning implementation",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Evaluate ML Frameworks for Quality",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Design Models improvement plan",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Lead Data Science innovation workshop",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Research AutoML for Recommendation Engine",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Prototype Smart Monitoring implementation",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Prototype Adaptive Learning implementation",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Research Real-time Analytics for Fraud Detection",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Evaluate Monitoring Systems for Automation",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Evaluate Analytics Tools for Automation",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Lead Engineering innovation workshop",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Lead Data Science innovation workshop",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Design Tools improvement plan",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Design Models improvement plan",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Design Models improvement plan",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Evaluate Analytics Tools for Automation",
+      "date": "2024-11-06",
+      "task": "Prototype Self-healing System implementation",
       "priority": "Low",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-20",
-      "task": "Evaluate Development Tools for Efficiency",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Evaluate Analytics Tools for Automation",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-20",
+      "date": "2024-11-06",
       "task": "Research Stream Processing for Predictive Maintenance",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Design Infrastructure improvement plan",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Lead Product innovation workshop",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Design Infrastructure improvement plan",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Research Stream Processing for Anomaly Detection",
       "priority": "High",
-      "estimated_hours": 5
+      "estimated_hours": 6
     },
     {
-      "date": "2024-11-21",
-      "task": "Lead Engineering innovation workshop",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Research Stream Processing for Fraud Detection",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-22",
+      "date": "2024-11-06",
       "task": "Prototype Automated Pipeline implementation",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Research Stream Processing for Recommendation Engine",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Prototype Smart Monitoring implementation",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Prototype Adaptive Learning implementation",
       "priority": "High",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-22",
+      "date": "2024-11-06",
+      "task": "Lead Data Science innovation workshop",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-07",
       "task": "Research AutoML for Anomaly Detection",
       "priority": "Low",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-22",
+      "date": "2024-11-07",
+      "task": "Evaluate ML Frameworks for Performance",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Evaluate Development Tools for Efficiency",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Design Tools improvement plan",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Research Stream Processing for Fraud Detection",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Research AutoML for Predictive Maintenance",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Research Stream Processing for Predictive Maintenance",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Research AutoML for Recommendation Engine",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Research Stream Processing for Predictive Maintenance",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Lead Data Science innovation workshop",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Lead Data Science innovation workshop",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Lead Product innovation workshop",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Design Pipeline improvement plan",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Design Tools improvement plan",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Prototype Self-healing System implementation",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Research AutoML for Fraud Detection",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Lead Engineering innovation workshop",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Research Machine Learning for Anomaly Detection",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Design Pipeline improvement plan",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Research Machine Learning for Anomaly Detection",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Prototype Adaptive Learning implementation",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Prototype Adaptive Learning implementation",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Research Stream Processing for Fraud Detection",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Prototype Smart Monitoring implementation",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Research Stream Processing for Recommendation Engine",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Evaluate Analytics Tools for Performance",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Research AutoML for Recommendation Engine",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Research AutoML for Predictive Maintenance",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Research Machine Learning for Recommendation Engine",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Evaluate Monitoring Systems for Efficiency",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Prototype Self-healing System implementation",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Evaluate Monitoring Systems for Automation",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Lead Product innovation workshop",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Evaluate Analytics Tools for Performance",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Research Machine Learning for Recommendation Engine",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Evaluate ML Frameworks for Automation",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Research Machine Learning for Anomaly Detection",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Design Infrastructure improvement plan",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Prototype Self-healing System implementation",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Design Models improvement plan",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Lead Product innovation workshop",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-15",
       "task": "Design Infrastructure improvement plan",
       "priority": "High",
       "estimated_hours": 6
     },
     {
-      "date": "2024-11-22",
-      "task": "Evaluate Monitoring Systems for Efficiency",
+      "date": "2024-11-15",
+      "task": "Evaluate Analytics Tools for Performance",
       "priority": "Low",
-      "estimated_hours": 4
+      "estimated_hours": 3
     },
     {
-      "date": "2024-11-25",
-      "task": "Evaluate ML Frameworks for Performance",
+      "date": "2024-11-15",
+      "task": "Research Stream Processing for Recommendation Engine",
       "priority": "Medium",
-      "estimated_hours": 4
+      "estimated_hours": 3
     },
     {
-      "date": "2024-11-25",
-      "task": "Lead Product innovation workshop",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Evaluate Analytics Tools for Automation",
+      "date": "2024-11-15",
+      "task": "Design Pipeline improvement plan",
       "priority": "Medium",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-25",
+      "date": "2024-11-18",
       "task": "Prototype Smart Monitoring implementation",
       "priority": "Low",
       "estimated_hours": 5
     },
     {
+      "date": "2024-11-18",
+      "task": "Research Real-time Analytics for Fraud Detection",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Research Real-time Analytics for Fraud Detection",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Design Pipeline improvement plan",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Lead Research innovation workshop",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Evaluate Monitoring Systems for Automation",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Prototype Automated Pipeline implementation",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Prototype Automated Pipeline implementation",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Design Tools improvement plan",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Design Infrastructure improvement plan",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Evaluate ML Frameworks for Efficiency",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Design Tools improvement plan",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Lead Research innovation workshop",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Evaluate Analytics Tools for Automation",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Research AutoML for Anomaly Detection",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Prototype Adaptive Learning implementation",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Lead Data Science innovation workshop",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Prototype Adaptive Learning implementation",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Lead Product innovation workshop",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Prototype Self-healing System implementation",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Evaluate Analytics Tools for Efficiency",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Design Models improvement plan",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Research AutoML for Fraud Detection",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Design Models improvement plan",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Prototype Smart Monitoring implementation",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Lead Engineering innovation workshop",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Lead Research innovation workshop",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Prototype Adaptive Learning implementation",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Prototype Self-healing System implementation",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
       "date": "2024-11-25",
-      "task": "Evaluate Monitoring Systems for Performance",
+      "task": "Design Tools improvement plan",
       "priority": "Medium",
       "estimated_hours": 2
     },
     {
       "date": "2024-11-25",
       "task": "Lead Engineering innovation workshop",
-      "priority": "Medium",
+      "priority": "Low",
       "estimated_hours": 2
     },
     {
       "date": "2024-11-25",
-      "task": "Prototype Automated Pipeline implementation",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Evaluate Analytics Tools for Efficiency",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Design Infrastructure improvement plan",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Evaluate Analytics Tools for Efficiency",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Lead Research innovation workshop",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Evaluate Monitoring Systems for Quality",
+      "task": "Evaluate ML Frameworks for Quality",
       "priority": "Medium",
       "estimated_hours": 3
     },
     {
+      "date": "2024-11-25",
+      "task": "Lead Engineering innovation workshop",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Research Stream Processing for Predictive Maintenance",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
       "date": "2024-11-26",
+      "task": "Prototype Adaptive Learning implementation",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Prototype Adaptive Learning implementation",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Design Infrastructure improvement plan",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Research Real-time Analytics for Predictive Maintenance",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Design Tools improvement plan",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Evaluate Analytics Tools for Efficiency",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Design Tools improvement plan",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Prototype Self-healing System implementation",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Design Infrastructure improvement plan",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Prototype Smart Monitoring implementation",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Evaluate Development Tools for Performance",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-27",
       "task": "Lead Data Science innovation workshop",
       "priority": "Medium",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-26",
-      "task": "Design Pipeline improvement plan",
+      "date": "2024-11-27",
+      "task": "Lead Engineering innovation workshop",
       "priority": "Medium",
       "estimated_hours": 2
     },
     {
       "date": "2024-11-27",
-      "task": "Prototype Adaptive Learning implementation",
-      "priority": "Low",
+      "task": "Prototype Smart Monitoring implementation",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Design Models improvement plan",
+      "priority": "High",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-27",
-      "task": "Design Models improvement plan",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Design Pipeline improvement plan",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Lead Research innovation workshop",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
       "date": "2024-11-28",
-      "task": "Research Machine Learning for Fraud Detection",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Research Real-time Analytics for Predictive Maintenance",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Evaluate Analytics Tools for Automation",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Lead Product innovation workshop",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Research Stream Processing for Fraud Detection",
+      "task": "Evaluate Development Tools for Efficiency",
       "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Prototype Adaptive Learning implementation",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Evaluate Monitoring Systems for Efficiency",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Prototype Smart Monitoring implementation",
+      "priority": "Low",
       "estimated_hours": 3
     },
     {
       "date": "2024-11-29",
-      "task": "Design Pipeline improvement plan",
+      "task": "Design Tools improvement plan",
       "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Design Pipeline improvement plan",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Lead Engineering innovation workshop",
+      "priority": "Medium",
       "estimated_hours": 5
     },
     {
       "date": "2024-11-29",
       "task": "Evaluate Analytics Tools for Efficiency",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Design Models improvement plan",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Design Models improvement plan",
       "priority": "High",
       "estimated_hours": 6
     }

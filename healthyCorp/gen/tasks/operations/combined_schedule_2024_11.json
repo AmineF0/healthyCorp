@@ -2,1081 +2,1051 @@
   "Khalid Al-Nasser": [
     {
       "date": "2024-11-01",
+      "task": "Review DR Site performance",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Plan Compute Cluster upgrade",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Manage Security Alert resolution",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Review Production performance",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Manage System Outage resolution",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Manage Security Alert resolution",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Coordinate Deployment optimization",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Coordinate Recovery optimization",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Review Staging performance",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Review Production performance",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Plan Cloud Resources upgrade",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-06",
+      "task": "Manage Data Problem resolution",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Coordinate Recovery optimization",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-07",
+      "task": "Coordinate Deployment optimization",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Review DR Site performance",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Coordinate Recovery optimization",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Oversee Monitoring Stack deployment",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Review Production performance",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Coordinate Recovery optimization",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Oversee Monitoring Stack deployment",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-12",
       "task": "Oversee Backup Systems deployment",
       "priority": "High",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-01",
-      "task": "Plan Cloud Resources upgrade",
-      "priority": "Low",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Manage System Outage resolution",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Plan Cloud Resources upgrade",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Manage System Outage resolution",
+      "date": "2024-11-13",
+      "task": "Oversee Backup Systems deployment",
       "priority": "High",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-05",
-      "task": "Manage Performance Issue resolution",
-      "priority": "Medium",
+      "date": "2024-11-13",
+      "task": "Plan Storage upgrade",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Coordinate Recovery optimization",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Coordinate Backup optimization",
+      "priority": "High",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-05",
+      "date": "2024-11-14",
+      "task": "Manage Data Problem resolution",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Oversee Production Cluster deployment",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Plan Compute Cluster upgrade",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Plan Cloud Resources upgrade",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Oversee Backup Systems deployment",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Coordinate Maintenance optimization",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Review Production performance",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Oversee Production Cluster deployment",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Plan Network upgrade",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Manage Data Problem resolution",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Oversee Backup Systems deployment",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Plan Network upgrade",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Plan Cloud Resources upgrade",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Plan Storage upgrade",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Plan Storage upgrade",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-22",
       "task": "Manage Security Alert resolution",
       "priority": "High",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-06",
+      "date": "2024-11-22",
       "task": "Review Staging performance",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Review DR Site performance",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Oversee Data Pipeline deployment",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Manage Data Problem resolution",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Plan Compute Cluster upgrade",
       "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Review Development performance",
-      "priority": "High",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-11",
-      "task": "Oversee Monitoring Stack deployment",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Oversee Monitoring Stack deployment",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Coordinate Backup optimization",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Review Development performance",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Oversee Backup Systems deployment",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Plan Network upgrade",
+      "date": "2024-11-25",
+      "task": "Manage System Outage resolution",
       "priority": "High",
-      "estimated_hours": 3
+      "estimated_hours": 4
     },
     {
-      "date": "2024-11-13",
+      "date": "2024-11-25",
       "task": "Oversee Production Cluster deployment",
       "priority": "High",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-13",
-      "task": "Plan Compute Cluster upgrade",
+      "date": "2024-11-25",
+      "task": "Manage Data Problem resolution",
       "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Review Staging performance",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Manage Security Alert resolution",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-14",
-      "task": "Manage System Outage resolution",
-      "priority": "High",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-15",
-      "task": "Oversee Backup Systems deployment",
-      "priority": "High",
+      "date": "2024-11-26",
+      "task": "Oversee Production Cluster deployment",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Plan Compute Cluster upgrade",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Oversee Data Pipeline deployment",
+      "priority": "Low",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-15",
-      "task": "Coordinate Recovery optimization",
+      "date": "2024-11-27",
+      "task": "Manage System Outage resolution",
       "priority": "Medium",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-18",
-      "task": "Manage System Outage resolution",
-      "priority": "High",
+      "date": "2024-11-27",
+      "task": "Manage Security Alert resolution",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Review Development performance",
+      "priority": "Medium",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-18",
+      "date": "2024-11-28",
       "task": "Review Production performance",
-      "priority": "Medium",
+      "priority": "Low",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-19",
-      "task": "Oversee Monitoring Stack deployment",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Coordinate Recovery optimization",
+      "date": "2024-11-29",
+      "task": "Coordinate Maintenance optimization",
       "priority": "Low",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-19",
-      "task": "Manage Data Problem resolution",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Review Staging performance",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Manage System Outage resolution",
+      "date": "2024-11-29",
+      "task": "Review Production performance",
       "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Manage Data Problem resolution",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Plan Network upgrade",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Plan Compute Cluster upgrade",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Review DR Site performance",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Coordinate Backup optimization",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Review DR Site performance",
-      "priority": "Low",
       "estimated_hours": 2
     },
     {
-      "date": "2024-11-25",
-      "task": "Manage Security Alert resolution",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Coordinate Deployment optimization",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Oversee Backup Systems deployment",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Oversee Backup Systems deployment",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Plan Network upgrade",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Coordinate Backup optimization",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Review Staging performance",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Plan Network upgrade",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Manage System Outage resolution",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Manage Security Alert resolution",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
       "date": "2024-11-29",
-      "task": "Coordinate Deployment optimization",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Plan Storage upgrade",
+      "task": "Coordinate Maintenance optimization",
       "priority": "Medium",
-      "estimated_hours": 3
+      "estimated_hours": 4
     }
   ],
   "Jennifer Brooks": [
     {
       "date": "2024-11-01",
-      "task": "Coordinate System Updates schedule",
-      "priority": "Low",
-      "estimated_hours": 4
+      "task": "Support Infrastructure operations",
+      "priority": "Medium",
+      "estimated_hours": 5
     },
     {
       "date": "2024-11-01",
-      "task": "Monitor Data Services health",
+      "task": "Implement Testing workflow",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Coordinate Backup Verification schedule",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-01",
+      "task": "Support Security operations",
       "priority": "High",
       "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Monitor API Gateway health",
-      "priority": "High",
-      "estimated_hours": 5
     },
     {
       "date": "2024-11-04",
       "task": "Coordinate Performance Tuning schedule",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Maintain Alert System documentation",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Coordinate Security Patches schedule",
       "priority": "High",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-05",
-      "task": "Implement Testing workflow",
+      "date": "2024-11-04",
+      "task": "Maintain Backup Solution documentation",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Support Development operations",
       "priority": "Low",
       "estimated_hours": 4
     },
     {
       "date": "2024-11-05",
-      "task": "Monitor API Gateway health",
-      "priority": "Medium",
-      "estimated_hours": 4
+      "task": "Coordinate Security Patches schedule",
+      "priority": "Low",
+      "estimated_hours": 5
     },
     {
       "date": "2024-11-05",
       "task": "Support Security operations",
-      "priority": "High",
-      "estimated_hours": 2
+      "priority": "Low",
+      "estimated_hours": 5
     },
     {
-      "date": "2024-11-06",
-      "task": "Implement Testing workflow",
-      "priority": "Low",
+      "date": "2024-11-05",
+      "task": "Coordinate Performance Tuning schedule",
+      "priority": "Medium",
       "estimated_hours": 4
     },
     {
       "date": "2024-11-06",
-      "task": "Support Infrastructure operations",
-      "priority": "High",
+      "task": "Support Data Science operations",
+      "priority": "Medium",
       "estimated_hours": 5
     },
     {
       "date": "2024-11-06",
-      "task": "Support Development operations",
-      "priority": "High",
-      "estimated_hours": 4
+      "task": "Implement Recovery workflow",
+      "priority": "Medium",
+      "estimated_hours": 5
     },
     {
       "date": "2024-11-06",
-      "task": "Maintain Automation Tools documentation",
-      "priority": "Low",
+      "task": "Maintain Alert System documentation",
+      "priority": "Medium",
       "estimated_hours": 3
     },
     {
       "date": "2024-11-07",
-      "task": "Maintain Alert System documentation",
+      "task": "Coordinate Backup Verification schedule",
       "priority": "Medium",
       "estimated_hours": 5
     },
     {
       "date": "2024-11-07",
-      "task": "Maintain Automation Tools documentation",
+      "task": "Implement Deployment workflow",
       "priority": "High",
-      "estimated_hours": 2
+      "estimated_hours": 6
     },
     {
       "date": "2024-11-07",
-      "task": "Implement Monitoring workflow",
-      "priority": "Medium",
+      "task": "Maintain Monitoring System documentation",
+      "priority": "Low",
       "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-08",
+      "task": "Implement Deployment workflow",
+      "priority": "Medium",
+      "estimated_hours": 4
     },
     {
       "date": "2024-11-08",
       "task": "Support Data Science operations",
       "priority": "Low",
-      "estimated_hours": 6
+      "estimated_hours": 2
     },
     {
       "date": "2024-11-08",
-      "task": "Maintain Backup Solution documentation",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Monitor API Gateway health",
+      "task": "Support Data Science operations",
       "priority": "Low",
-      "estimated_hours": 4
+      "estimated_hours": 2
     },
     {
-      "date": "2024-11-11",
-      "task": "Support Infrastructure operations",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Coordinate Backup Verification schedule",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Support Development operations",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-12",
+      "date": "2024-11-08",
       "task": "Coordinate Security Patches schedule",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Support Security operations",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Support Security operations",
       "priority": "Low",
-      "estimated_hours": 5
+      "estimated_hours": 4
     },
     {
-      "date": "2024-11-12",
-      "task": "Support Infrastructure operations",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Monitor Data Services health",
+      "date": "2024-11-11",
+      "task": "Monitor API Gateway health",
       "priority": "High",
-      "estimated_hours": 6
+      "estimated_hours": 2
     },
     {
-      "date": "2024-11-13",
-      "task": "Monitor Data Services health",
+      "date": "2024-11-11",
+      "task": "Maintain Automation Tools documentation",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Maintain Automation Tools documentation",
       "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Support Development operations",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Maintain Monitoring System documentation",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Maintain Alert System documentation",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Monitor Data Services health",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Monitor Data Services health",
+      "priority": "High",
       "estimated_hours": 5
     },
     {
       "date": "2024-11-13",
+      "task": "Implement Deployment workflow",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Maintain Automation Tools documentation",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-14",
       "task": "Maintain Monitoring System documentation",
       "priority": "High",
       "estimated_hours": 2
     },
     {
-      "date": "2024-11-13",
-      "task": "Support Data Science operations",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
       "date": "2024-11-14",
       "task": "Coordinate Backup Verification schedule",
-      "priority": "Medium",
+      "priority": "High",
       "estimated_hours": 5
     },
     {
       "date": "2024-11-14",
-      "task": "Implement Testing workflow",
-      "priority": "Medium",
+      "task": "Monitor Storage System health",
+      "priority": "Low",
       "estimated_hours": 6
     },
     {
-      "date": "2024-11-14",
-      "task": "Coordinate System Updates schedule",
+      "date": "2024-11-15",
+      "task": "Implement Testing workflow",
       "priority": "High",
-      "estimated_hours": 5
+      "estimated_hours": 6
     },
     {
-      "date": "2024-11-14",
-      "task": "Support Data Science operations",
+      "date": "2024-11-15",
+      "task": "Coordinate Performance Tuning schedule",
       "priority": "High",
       "estimated_hours": 5
     },
     {
       "date": "2024-11-15",
-      "task": "Maintain Automation Tools documentation",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Support Data Science operations",
+      "task": "Maintain Alert System documentation",
       "priority": "Medium",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-15",
-      "task": "Monitor API Gateway health",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-15",
-      "task": "Support Infrastructure operations",
+      "date": "2024-11-18",
+      "task": "Support Data Science operations",
       "priority": "Low",
-      "estimated_hours": 2
+      "estimated_hours": 5
     },
     {
       "date": "2024-11-18",
       "task": "Support Security operations",
-      "priority": "Medium",
-      "estimated_hours": 3
+      "priority": "High",
+      "estimated_hours": 6
     },
     {
       "date": "2024-11-18",
-      "task": "Coordinate System Updates schedule",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-18",
-      "task": "Monitor Processing Pipeline health",
+      "task": "Support Security operations",
       "priority": "High",
       "estimated_hours": 2
     },
     {
-      "date": "2024-11-18",
+      "date": "2024-11-19",
+      "task": "Maintain Alert System documentation",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Maintain Automation Tools documentation",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Support Infrastructure operations",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-20",
       "task": "Monitor Data Services health",
       "priority": "Medium",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-19",
-      "task": "Monitor API Gateway health",
-      "priority": "Medium",
-      "estimated_hours": 3
+      "date": "2024-11-20",
+      "task": "Coordinate Security Patches schedule",
+      "priority": "Low",
+      "estimated_hours": 5
     },
     {
-      "date": "2024-11-19",
+      "date": "2024-11-20",
+      "task": "Maintain Monitoring System documentation",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Monitor Data Services health",
+      "priority": "Low",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Support Infrastructure operations",
+      "priority": "High",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-21",
       "task": "Support Data Science operations",
       "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Maintain Monitoring System documentation",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Monitor Storage System health",
+      "priority": "Medium",
       "estimated_hours": 3
     },
     {
-      "date": "2024-11-19",
-      "task": "Implement Testing workflow",
-      "priority": "Low",
-      "estimated_hours": 4
+      "date": "2024-11-22",
+      "task": "Coordinate Performance Tuning schedule",
+      "priority": "High",
+      "estimated_hours": 5
     },
     {
-      "date": "2024-11-20",
-      "task": "Implement Monitoring workflow",
+      "date": "2024-11-25",
+      "task": "Monitor Processing Pipeline health",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Monitor API Gateway health",
       "priority": "High",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-20",
+      "date": "2024-11-25",
+      "task": "Coordinate Backup Verification schedule",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Support Data Science operations",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Coordinate System Updates schedule",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Coordinate Performance Tuning schedule",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-26",
+      "task": "Maintain Alert System documentation",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-27",
+      "task": "Monitor Processing Pipeline health",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-27",
       "task": "Implement Recovery workflow",
       "priority": "Medium",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-20",
-      "task": "Support Development operations",
-      "priority": "Low",
+      "date": "2024-11-27",
+      "task": "Support Security operations",
+      "priority": "High",
       "estimated_hours": 6
     },
     {
-      "date": "2024-11-20",
-      "task": "Implement Monitoring workflow",
-      "priority": "High",
-      "estimated_hours": 4
+      "date": "2024-11-28",
+      "task": "Monitor Processing Pipeline health",
+      "priority": "Medium",
+      "estimated_hours": 3
     },
     {
-      "date": "2024-11-21",
-      "task": "Maintain Alert System documentation",
+      "date": "2024-11-28",
+      "task": "Coordinate Backup Verification schedule",
       "priority": "Low",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-21",
-      "task": "Monitor Processing Pipeline health",
-      "priority": "High",
+      "date": "2024-11-28",
+      "task": "Monitor API Gateway health",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Support Data Science operations",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Support Data Science operations",
+      "priority": "Medium",
       "estimated_hours": 2
     },
     {
-      "date": "2024-11-21",
-      "task": "Implement Monitoring workflow",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-21",
-      "task": "Support Development operations",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Maintain Automation Tools documentation",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Support Development operations",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-22",
-      "task": "Maintain Automation Tools documentation",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Implement Deployment workflow",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Monitor Data Services health",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Maintain Backup Solution documentation",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Monitor Storage System health",
-      "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Coordinate System Updates schedule",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Maintain Backup Solution documentation",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Coordinate System Updates schedule",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Maintain Alert System documentation",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Implement Recovery workflow",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Implement Recovery workflow",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Coordinate System Updates schedule",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Implement Deployment workflow",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Support Infrastructure operations",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-28",
-      "task": "Monitor Data Services health",
-      "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
       "date": "2024-11-29",
-      "task": "Implement Recovery workflow",
+      "task": "Coordinate Performance Tuning schedule",
       "priority": "Medium",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Implement Deployment workflow",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Support Development operations",
-      "priority": "Low",
       "estimated_hours": 4
     }
   ],
   "Aisha Al-Dubai": [
     {
       "date": "2024-11-01",
-      "task": "Enhance Release Management efficiency",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-01",
-      "task": "Streamline Data Processing execution",
+      "task": "Enhance Incident Response efficiency",
       "priority": "Low",
       "estimated_hours": 4
     },
     {
       "date": "2024-11-01",
-      "task": "Streamline CI/CD Pipeline execution",
-      "priority": "Low",
+      "task": "Enhance Release Management efficiency",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-04",
+      "task": "Streamline System Monitoring execution",
+      "priority": "High",
       "estimated_hours": 6
     },
     {
       "date": "2024-11-04",
-      "task": "Improve Service Availability tracking",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Optimize Storage Capacity utilization",
-      "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-04",
-      "task": "Develop Disaster Recovery guidelines",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Improve Resource Usage tracking",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-05",
-      "task": "Streamline System Monitoring execution",
-      "priority": "Medium",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-05",
       "task": "Streamline CI/CD Pipeline execution",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Streamline Alert Management execution",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-06",
-      "task": "Improve Resource Usage tracking",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Optimize Memory Usage utilization",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-07",
-      "task": "Improve Resource Usage tracking",
       "priority": "Medium",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Improve Service Availability tracking",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-08",
-      "task": "Streamline Alert Management execution",
-      "priority": "Low",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-11",
-      "task": "Improve System Performance tracking",
-      "priority": "Low",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-11",
-      "task": "Enhance Change Control efficiency",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Develop Deployment guidelines",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-12",
+      "date": "2024-11-05",
       "task": "Optimize Compute Resources utilization",
       "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-12",
-      "task": "Improve Resource Usage tracking",
-      "priority": "High",
       "estimated_hours": 6
     },
     {
-      "date": "2024-11-13",
+      "date": "2024-11-05",
       "task": "Optimize Network Bandwidth utilization",
       "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-05",
+      "task": "Improve Response Time tracking",
+      "priority": "High",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-13",
-      "task": "Develop Deployment guidelines",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-13",
-      "task": "Streamline System Monitoring execution",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-14",
+      "date": "2024-11-06",
       "task": "Optimize Storage Capacity utilization",
-      "priority": "Medium",
-      "estimated_hours": 6
+      "priority": "Low",
+      "estimated_hours": 4
     },
     {
-      "date": "2024-11-14",
-      "task": "Improve Resource Usage tracking",
-      "priority": "Medium",
+      "date": "2024-11-06",
+      "task": "Streamline CI/CD Pipeline execution",
+      "priority": "High",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-14",
-      "task": "Streamline System Monitoring execution",
-      "priority": "Medium",
-      "estimated_hours": 4
+      "date": "2024-11-06",
+      "task": "Optimize Compute Resources utilization",
+      "priority": "Low",
+      "estimated_hours": 6
     },
     {
-      "date": "2024-11-15",
-      "task": "Enhance Change Control efficiency",
+      "date": "2024-11-07",
+      "task": "Enhance Resource Allocation efficiency",
       "priority": "High",
-      "estimated_hours": 4
+      "estimated_hours": 3
     },
     {
-      "date": "2024-11-15",
-      "task": "Optimize Network Bandwidth utilization",
+      "date": "2024-11-07",
+      "task": "Develop Disaster Recovery guidelines",
       "priority": "Low",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-15",
-      "task": "Develop Deployment guidelines",
-      "priority": "Medium",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-18",
+      "date": "2024-11-07",
       "task": "Streamline System Monitoring execution",
       "priority": "High",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-18",
-      "task": "Enhance Resource Allocation efficiency",
-      "priority": "High",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-19",
-      "task": "Improve Service Availability tracking",
+      "date": "2024-11-08",
+      "task": "Develop Maintenance guidelines",
       "priority": "Medium",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-19",
-      "task": "Enhance Resource Allocation efficiency",
-      "priority": "High",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-20",
-      "task": "Improve Response Time tracking",
-      "priority": "High",
+      "date": "2024-11-08",
+      "task": "Improve Resource Usage tracking",
+      "priority": "Low",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-20",
-      "task": "Optimize Network Bandwidth utilization",
+      "date": "2024-11-08",
+      "task": "Develop Disaster Recovery guidelines",
       "priority": "High",
-      "estimated_hours": 5
+      "estimated_hours": 6
     },
     {
-      "date": "2024-11-21",
+      "date": "2024-11-11",
       "task": "Optimize Memory Usage utilization",
+      "priority": "Low",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Enhance Incident Response efficiency",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-11",
+      "task": "Enhance Change Control efficiency",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Develop Disaster Recovery guidelines",
+      "priority": "High",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-12",
+      "task": "Enhance Incident Response efficiency",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Enhance Resource Allocation efficiency",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Develop Deployment guidelines",
+      "priority": "Medium",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-13",
+      "task": "Develop Disaster Recovery guidelines",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Improve Resource Usage tracking",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-14",
+      "task": "Enhance Resource Allocation efficiency",
+      "priority": "Medium",
+      "estimated_hours": 2
+    },
+    {
+      "date": "2024-11-15",
+      "task": "Streamline Data Processing execution",
       "priority": "Medium",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-21",
+      "date": "2024-11-15",
+      "task": "Enhance Release Management efficiency",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-18",
+      "task": "Optimize Network Bandwidth utilization",
+      "priority": "Medium",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-18",
       "task": "Streamline Alert Management execution",
       "priority": "Low",
       "estimated_hours": 5
     },
     {
-      "date": "2024-11-22",
-      "task": "Optimize Storage Capacity utilization",
+      "date": "2024-11-18",
+      "task": "Improve System Performance tracking",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Improve System Performance tracking",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-19",
+      "task": "Streamline Data Processing execution",
       "priority": "Medium",
       "estimated_hours": 4
     },
     {
+      "date": "2024-11-19",
+      "task": "Streamline Alert Management execution",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Enhance Resource Allocation efficiency",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-20",
+      "task": "Enhance Resource Allocation efficiency",
+      "priority": "High",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Enhance Resource Allocation efficiency",
+      "priority": "Low",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-21",
+      "task": "Enhance Resource Allocation efficiency",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
       "date": "2024-11-22",
+      "task": "Develop Security Protocol guidelines",
+      "priority": "Medium",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-22",
+      "task": "Streamline CI/CD Pipeline execution",
+      "priority": "High",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Develop Security Protocol guidelines",
+      "priority": "High",
+      "estimated_hours": 5
+    },
+    {
+      "date": "2024-11-25",
+      "task": "Optimize Network Bandwidth utilization",
+      "priority": "Low",
+      "estimated_hours": 6
+    },
+    {
+      "date": "2024-11-26",
       "task": "Improve Response Time tracking",
       "priority": "Low",
       "estimated_hours": 6
     },
     {
-      "date": "2024-11-22",
-      "task": "Optimize Network Bandwidth utilization",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Streamline System Monitoring execution",
-      "priority": "High",
-      "estimated_hours": 3
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Streamline Data Processing execution",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
-      "date": "2024-11-25",
-      "task": "Enhance Incident Response efficiency",
-      "priority": "High",
-      "estimated_hours": 2
-    },
-    {
       "date": "2024-11-26",
-      "task": "Streamline CI/CD Pipeline execution",
-      "priority": "High",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-26",
-      "task": "Enhance Release Management efficiency",
+      "task": "Optimize Memory Usage utilization",
       "priority": "High",
       "estimated_hours": 4
     },
     {
-      "date": "2024-11-26",
+      "date": "2024-11-27",
       "task": "Enhance Resource Allocation efficiency",
-      "priority": "High",
-      "estimated_hours": 5
+      "priority": "Low",
+      "estimated_hours": 6
     },
     {
       "date": "2024-11-27",
       "task": "Improve Service Availability tracking",
+      "priority": "Low",
+      "estimated_hours": 4
+    },
+    {
+      "date": "2024-11-28",
+      "task": "Optimize Network Bandwidth utilization",
       "priority": "Medium",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Develop Maintenance guidelines",
-      "priority": "Low",
-      "estimated_hours": 4
-    },
-    {
-      "date": "2024-11-27",
-      "task": "Improve System Performance tracking",
-      "priority": "Low",
-      "estimated_hours": 2
+      "estimated_hours": 6
     },
     {
       "date": "2024-11-28",
-      "task": "Develop Maintenance guidelines",
+      "task": "Develop Deployment guidelines",
       "priority": "High",
-      "estimated_hours": 5
+      "estimated_hours": 4
     },
     {
       "date": "2024-11-28",
-      "task": "Enhance Incident Response efficiency",
-      "priority": "Low",
-      "estimated_hours": 2
+      "task": "Optimize Memory Usage utilization",
+      "priority": "High",
+      "estimated_hours": 4
     },
     {
-      "date": "2024-11-28",
-      "task": "Streamline Data Processing execution",
-      "priority": "Low",
+      "date": "2024-11-29",
+      "task": "Improve Response Time tracking",
+      "priority": "Medium",
+      "estimated_hours": 3
+    },
+    {
+      "date": "2024-11-29",
+      "task": "Streamline System Monitoring execution",
+      "priority": "Medium",
       "estimated_hours": 6
     },
     {
       "date": "2024-11-29",
-      "task": "Enhance Incident Response efficiency",
-      "priority": "Low",
-      "estimated_hours": 6
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Develop Security Protocol guidelines",
-      "priority": "Low",
-      "estimated_hours": 5
-    },
-    {
-      "date": "2024-11-29",
-      "task": "Improve Resource Usage tracking",
+      "task": "Improve Service Availability tracking",
       "priority": "High",
-      "estimated_hours": 4
+      "estimated_hours": 6
     }
   ]
 }

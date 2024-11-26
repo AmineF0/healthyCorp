@@ -1,603 +1,591 @@
 [
   {
     "date": "2024-11-01",
-    "task": "Evaluate compliance requirements for API Gateway",
+    "task": "Approve data quality metrics for Information Security",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Evaluate compliance requirements for Data Lake",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Approve data quality metrics for Analytics",
     "priority": "Medium",
     "estimated_hours": 4
   },
   {
     "date": "2024-11-01",
+    "task": "Strategic planning session for Enterprise Data Platform",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Approve data quality metrics for Analytics",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-01",
+    "task": "Approve data quality metrics for Business Intelligence",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-04",
+    "task": "Review data governance policies",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-04",
     "task": "Strategic planning session for Real-time Analytics",
-    "priority": "Low",
-    "estimated_hours": 2
+    "priority": "Medium",
+    "estimated_hours": 6
   },
   {
-    "date": "2024-11-01",
-    "task": "Evaluate compliance requirements for Data Governance",
-    "priority": "High",
-    "estimated_hours": 4
-  },
-  {
-    "date": "2024-11-01",
-    "task": "Strategic planning session for Data Lake Migration",
+    "date": "2024-11-04",
+    "task": "Review data governance policies",
     "priority": "High",
     "estimated_hours": 6
   },
   {
-    "date": "2024-11-01",
-    "task": "Review data governance policies",
-    "priority": "Low",
-    "estimated_hours": 4
-  },
-  {
-    "date": "2024-11-01",
-    "task": "Approve data quality metrics for Data Science",
-    "priority": "High",
-    "estimated_hours": 2
-  },
-  {
     "date": "2024-11-04",
-    "task": "Lead stakeholder meeting on security protocols",
-    "priority": "Medium",
+    "task": "Lead stakeholder meeting on risk management",
+    "priority": "High",
     "estimated_hours": 4
   },
   {
     "date": "2024-11-04",
-    "task": "Review data governance policies",
+    "task": "Evaluate compliance requirements for Data Quality Framework",
     "priority": "High",
-    "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-04",
-    "task": "Lead stakeholder meeting on data integration",
-    "priority": "Medium",
     "estimated_hours": 5
   },
   {
     "date": "2024-11-04",
     "task": "Review data governance policies",
     "priority": "High",
-    "estimated_hours": 5
+    "estimated_hours": 3
   },
   {
     "date": "2024-11-04",
-    "task": "Lead stakeholder meeting on cross-team collaboration",
-    "priority": "Low",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-04",
-    "task": "Evaluate compliance requirements for ML Pipeline",
-    "priority": "Low",
-    "estimated_hours": 6
+    "task": "Strategic planning session for Real-time Analytics",
+    "priority": "High",
+    "estimated_hours": 4
   },
   {
     "date": "2024-11-05",
-    "task": "Review data governance policies",
-    "priority": "Low",
-    "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-05",
-    "task": "Lead stakeholder meeting on compliance standards",
-    "priority": "Low",
+    "task": "Strategic planning session for Data Marketplace",
+    "priority": "High",
     "estimated_hours": 3
   },
   {
     "date": "2024-11-05",
+    "task": "Evaluate compliance requirements for Data Lake",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Approve data quality metrics for Information Security",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Strategic planning session for Enterprise Data Platform",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Review data governance policies",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Approve data quality metrics for Data Science",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-05",
+    "task": "Lead stakeholder meeting on data quality",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-06",
+    "task": "Strategic planning session for Data Lake Migration",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-06",
+    "task": "Strategic planning session for Data Lake Migration",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-06",
     "task": "Review data governance policies",
     "priority": "High",
     "estimated_hours": 5
   },
   {
-    "date": "2024-11-05",
-    "task": "Strategic planning session for Real-time Analytics",
-    "priority": "Medium",
-    "estimated_hours": 6
+    "date": "2024-11-06",
+    "task": "Strategic planning session for ML Operations",
+    "priority": "High",
+    "estimated_hours": 3
   },
   {
-    "date": "2024-11-05",
-    "task": "Approve data quality metrics for Engineering",
+    "date": "2024-11-06",
+    "task": "Evaluate compliance requirements for Data Governance",
     "priority": "High",
     "estimated_hours": 5
   },
   {
-    "date": "2024-11-05",
-    "task": "Lead stakeholder meeting on cross-team collaboration",
-    "priority": "Low",
-    "estimated_hours": 4
-  },
-  {
     "date": "2024-11-06",
-    "task": "Evaluate compliance requirements for Analytics Platform",
-    "priority": "High",
+    "task": "Approve data quality metrics for Information Security",
+    "priority": "Medium",
     "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-06",
-    "task": "Strategic planning session for Real-time Analytics",
-    "priority": "Medium",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-06",
-    "task": "Lead stakeholder meeting on risk management",
-    "priority": "High",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-06",
-    "task": "Lead stakeholder meeting on risk management",
-    "priority": "Low",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-06",
-    "task": "Evaluate compliance requirements for Data Quality Framework",
-    "priority": "Medium",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-06",
-    "task": "Evaluate compliance requirements for Cloud Migration",
-    "priority": "Low",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-07",
-    "task": "Evaluate compliance requirements for Analytics Platform",
-    "priority": "High",
-    "estimated_hours": 5
   },
   {
     "date": "2024-11-07",
     "task": "Approve data quality metrics for Information Security",
-    "priority": "Low",
-    "estimated_hours": 5
+    "priority": "Medium",
+    "estimated_hours": 4
   },
   {
     "date": "2024-11-07",
-    "task": "Lead stakeholder meeting on security protocols",
+    "task": "Review data governance policies",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Review data governance policies",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Approve data quality metrics for Information Security",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-07",
+    "task": "Evaluate compliance requirements for Cloud Migration",
     "priority": "Medium",
     "estimated_hours": 6
   },
   {
     "date": "2024-11-07",
     "task": "Evaluate compliance requirements for Data Lake",
-    "priority": "High",
-    "estimated_hours": 2
+    "priority": "Medium",
+    "estimated_hours": 3
   },
   {
-    "date": "2024-11-07",
+    "date": "2024-11-08",
+    "task": "Review data governance policies",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Evaluate compliance requirements for Data Quality Framework",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Evaluate compliance requirements for Data Governance",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Strategic planning session for ML Operations",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Approve data quality metrics for Engineering",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-08",
+    "task": "Strategic planning session for Data Lake Migration",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-08",
     "task": "Strategic planning session for Real-time Analytics",
     "priority": "Medium",
     "estimated_hours": 2
   },
   {
-    "date": "2024-11-07",
-    "task": "Lead stakeholder meeting on compliance standards",
+    "date": "2024-11-11",
+    "task": "Evaluate compliance requirements for Analytics Platform",
     "priority": "Medium",
-    "estimated_hours": 3
+    "estimated_hours": 5
   },
   {
-    "date": "2024-11-07",
-    "task": "Approve data quality metrics for Data Science",
+    "date": "2024-11-11",
+    "task": "Approve data quality metrics for Information Security",
     "priority": "High",
     "estimated_hours": 2
   },
   {
-    "date": "2024-11-08",
+    "date": "2024-11-11",
     "task": "Review data governance policies",
-    "priority": "Low",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-08",
-    "task": "Evaluate compliance requirements for ML Pipeline",
     "priority": "Medium",
     "estimated_hours": 4
   },
   {
-    "date": "2024-11-08",
-    "task": "Lead stakeholder meeting on data integration",
-    "priority": "Medium",
-    "estimated_hours": 2
+    "date": "2024-11-11",
+    "task": "Strategic planning session for Data Marketplace",
+    "priority": "High",
+    "estimated_hours": 4
   },
   {
-    "date": "2024-11-08",
+    "date": "2024-11-11",
     "task": "Approve data quality metrics for Business Intelligence",
-    "priority": "High",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-08",
-    "task": "Approve data quality metrics for Analytics",
-    "priority": "Low",
-    "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-08",
-    "task": "Strategic planning session for Real-time Analytics",
-    "priority": "Low",
-    "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-11",
-    "task": "Lead stakeholder meeting on security protocols",
-    "priority": "Medium",
-    "estimated_hours": 4
-  },
-  {
-    "date": "2024-11-11",
-    "task": "Review data governance policies",
     "priority": "Medium",
     "estimated_hours": 2
   },
   {
     "date": "2024-11-11",
-    "task": "Evaluate compliance requirements for API Gateway",
-    "priority": "High",
-    "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-11",
-    "task": "Lead stakeholder meeting on cross-team collaboration",
-    "priority": "High",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-11",
-    "task": "Strategic planning session for Enterprise Data Platform",
-    "priority": "Low",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-11",
-    "task": "Review data governance policies",
-    "priority": "High",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-11",
-    "task": "Evaluate compliance requirements for Security Enhancement",
-    "priority": "Low",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-12",
-    "task": "Approve data quality metrics for Data Science",
+    "task": "Approve data quality metrics for Engineering",
     "priority": "Medium",
     "estimated_hours": 3
   },
   {
     "date": "2024-11-12",
-    "task": "Evaluate compliance requirements for Cloud Migration",
-    "priority": "High",
-    "estimated_hours": 3
+    "task": "Review data governance policies",
+    "priority": "Medium",
+    "estimated_hours": 2
   },
   {
     "date": "2024-11-12",
     "task": "Lead stakeholder meeting on risk management",
-    "priority": "Low",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-12",
-    "task": "Strategic planning session for ML Operations",
     "priority": "High",
-    "estimated_hours": 6
+    "estimated_hours": 4
   },
   {
     "date": "2024-11-12",
-    "task": "Lead stakeholder meeting on compliance standards",
-    "priority": "High",
-    "estimated_hours": 6
+    "task": "Approve data quality metrics for Engineering",
+    "priority": "Medium",
+    "estimated_hours": 2
   },
   {
     "date": "2024-11-12",
-    "task": "Review data governance policies",
+    "task": "Evaluate compliance requirements for Data Governance",
     "priority": "Medium",
     "estimated_hours": 5
   },
   {
     "date": "2024-11-12",
+    "task": "Strategic planning session for Data Marketplace",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-12",
+    "task": "Approve data quality metrics for Information Security",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-12",
+    "task": "Review data governance policies",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Strategic planning session for Data Marketplace",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Strategic planning session for Enterprise Data Platform",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Strategic planning session for Data Marketplace",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Strategic planning session for Real-time Analytics",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Review data governance policies",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Review data governance policies",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-13",
+    "task": "Lead stakeholder meeting on risk management",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-14",
+    "task": "Strategic planning session for ML Operations",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-14",
+    "task": "Lead stakeholder meeting on security protocols",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-14",
     "task": "Evaluate compliance requirements for Analytics Platform",
     "priority": "High",
     "estimated_hours": 5
   },
   {
-    "date": "2024-11-13",
-    "task": "Strategic planning session for ML Operations",
-    "priority": "High",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-13",
-    "task": "Strategic planning session for Enterprise Data Platform",
-    "priority": "Low",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-13",
-    "task": "Approve data quality metrics for Engineering",
-    "priority": "Medium",
-    "estimated_hours": 4
-  },
-  {
-    "date": "2024-11-13",
-    "task": "Lead stakeholder meeting on data quality",
-    "priority": "Medium",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-13",
-    "task": "Approve data quality metrics for Engineering",
-    "priority": "High",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-13",
+    "date": "2024-11-14",
     "task": "Review data governance policies",
-    "priority": "Low",
-    "estimated_hours": 4
+    "priority": "High",
+    "estimated_hours": 5
   },
   {
-    "date": "2024-11-13",
+    "date": "2024-11-14",
+    "task": "Review data governance policies",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-14",
+    "task": "Strategic planning session for Data Lake Migration",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-15",
     "task": "Lead stakeholder meeting on data integration",
-    "priority": "Low",
-    "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-14",
-    "task": "Strategic planning session for Data Lake Migration",
-    "priority": "High",
-    "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-14",
-    "task": "Review data governance policies",
-    "priority": "Low",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-14",
-    "task": "Strategic planning session for Data Lake Migration",
     "priority": "Medium",
-    "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-14",
-    "task": "Approve data quality metrics for Analytics",
-    "priority": "Low",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-14",
-    "task": "Review data governance policies",
-    "priority": "Medium",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-14",
-    "task": "Approve data quality metrics for Business Intelligence",
-    "priority": "Low",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-14",
-    "task": "Lead stakeholder meeting on cross-team collaboration",
-    "priority": "Medium",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-15",
-    "task": "Lead stakeholder meeting on compliance standards",
-    "priority": "High",
     "estimated_hours": 4
-  },
-  {
-    "date": "2024-11-15",
-    "task": "Review data governance policies",
-    "priority": "High",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-15",
-    "task": "Review data governance policies",
-    "priority": "High",
-    "estimated_hours": 4
-  },
-  {
-    "date": "2024-11-15",
-    "task": "Strategic planning session for ML Operations",
-    "priority": "Medium",
-    "estimated_hours": 6
   },
   {
     "date": "2024-11-15",
     "task": "Evaluate compliance requirements for Cloud Migration",
-    "priority": "High",
-    "estimated_hours": 4
-  },
-  {
-    "date": "2024-11-15",
-    "task": "Strategic planning session for Real-time Analytics",
-    "priority": "Medium",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-18",
-    "task": "Approve data quality metrics for Analytics",
-    "priority": "Low",
-    "estimated_hours": 4
-  },
-  {
-    "date": "2024-11-18",
-    "task": "Lead stakeholder meeting on data integration",
-    "priority": "High",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-18",
-    "task": "Approve data quality metrics for Data Science",
     "priority": "Medium",
     "estimated_hours": 6
   },
   {
-    "date": "2024-11-18",
+    "date": "2024-11-15",
+    "task": "Strategic planning session for Data Lake Migration",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-15",
     "task": "Strategic planning session for Enterprise Data Platform",
     "priority": "High",
     "estimated_hours": 4
   },
   {
-    "date": "2024-11-18",
-    "task": "Evaluate compliance requirements for Data Governance",
-    "priority": "Low",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-18",
-    "task": "Review data governance policies",
-    "priority": "Low",
-    "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-18",
-    "task": "Review data governance policies",
-    "priority": "Low",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-19",
-    "task": "Strategic planning session for Real-time Analytics",
+    "date": "2024-11-15",
+    "task": "Approve data quality metrics for Information Security",
     "priority": "High",
-    "estimated_hours": 2
+    "estimated_hours": 4
   },
   {
-    "date": "2024-11-19",
-    "task": "Approve data quality metrics for Business Intelligence",
+    "date": "2024-11-15",
+    "task": "Approve data quality metrics for Analytics",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-18",
+    "task": "Evaluate compliance requirements for Analytics Platform",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-18",
+    "task": "Review data governance policies",
     "priority": "Medium",
     "estimated_hours": 4
   },
   {
-    "date": "2024-11-19",
+    "date": "2024-11-18",
+    "task": "Evaluate compliance requirements for API Gateway",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-18",
+    "task": "Evaluate compliance requirements for Security Enhancement",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-18",
     "task": "Strategic planning session for Data Marketplace",
     "priority": "Medium",
     "estimated_hours": 3
   },
   {
-    "date": "2024-11-19",
-    "task": "Approve data quality metrics for Engineering",
-    "priority": "Low",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-19",
-    "task": "Approve data quality metrics for Data Science",
-    "priority": "Medium",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-19",
-    "task": "Approve data quality metrics for Engineering",
-    "priority": "Medium",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-20",
+    "date": "2024-11-18",
     "task": "Evaluate compliance requirements for Data Quality Framework",
     "priority": "High",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-20",
-    "task": "Strategic planning session for Real-time Analytics",
-    "priority": "Low",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-20",
-    "task": "Review data governance policies",
-    "priority": "Low",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-20",
-    "task": "Lead stakeholder meeting on risk management",
-    "priority": "High",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-20",
-    "task": "Lead stakeholder meeting on security protocols",
-    "priority": "Medium",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-20",
-    "task": "Lead stakeholder meeting on risk management",
-    "priority": "High",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-21",
-    "task": "Review data governance policies",
-    "priority": "High",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-21",
-    "task": "Approve data quality metrics for Data Science",
-    "priority": "Medium",
     "estimated_hours": 3
   },
   {
-    "date": "2024-11-21",
-    "task": "Evaluate compliance requirements for API Gateway",
-    "priority": "Medium",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-21",
-    "task": "Review data governance policies",
-    "priority": "High",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-21",
-    "task": "Lead stakeholder meeting on risk management",
-    "priority": "Low",
-    "estimated_hours": 4
-  },
-  {
-    "date": "2024-11-21",
-    "task": "Evaluate compliance requirements for Data Quality Framework",
-    "priority": "Low",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-21",
-    "task": "Approve data quality metrics for Analytics",
-    "priority": "High",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-22",
+    "date": "2024-11-18",
     "task": "Review data governance policies",
     "priority": "High",
     "estimated_hours": 2
   },
   {
-    "date": "2024-11-22",
-    "task": "Evaluate compliance requirements for API Gateway",
+    "date": "2024-11-19",
+    "task": "Lead stakeholder meeting on cross-team collaboration",
     "priority": "High",
     "estimated_hours": 4
   },
   {
-    "date": "2024-11-22",
-    "task": "Review data governance policies",
-    "priority": "Low",
+    "date": "2024-11-19",
+    "task": "Strategic planning session for ML Operations",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Approve data quality metrics for Engineering",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Lead stakeholder meeting on security protocols",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Approve data quality metrics for Analytics",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-19",
+    "task": "Evaluate compliance requirements for Security Enhancement",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Approve data quality metrics for Business Intelligence",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Approve data quality metrics for Business Intelligence",
+    "priority": "High",
     "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Evaluate compliance requirements for Data Quality Framework",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Approve data quality metrics for Information Security",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Evaluate compliance requirements for API Gateway",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Evaluate compliance requirements for API Gateway",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-20",
+    "task": "Approve data quality metrics for Information Security",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Lead stakeholder meeting on data quality",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Review data governance policies",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Evaluate compliance requirements for Cloud Migration",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Evaluate compliance requirements for Data Quality Framework",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Evaluate compliance requirements for Analytics Platform",
+    "priority": "Medium",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-21",
+    "task": "Evaluate compliance requirements for Data Governance",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-22",
+    "task": "Strategic planning session for ML Operations",
+    "priority": "Medium",
+    "estimated_hours": 5
   },
   {
     "date": "2024-11-22",
@@ -607,230 +595,218 @@
   },
   {
     "date": "2024-11-22",
-    "task": "Lead stakeholder meeting on compliance standards",
-    "priority": "High",
-    "estimated_hours": 4
-  },
-  {
-    "date": "2024-11-22",
-    "task": "Evaluate compliance requirements for Security Enhancement",
-    "priority": "Low",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-22",
-    "task": "Approve data quality metrics for Analytics",
-    "priority": "Medium",
-    "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-25",
-    "task": "Approve data quality metrics for Information Security",
-    "priority": "Medium",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-25",
-    "task": "Evaluate compliance requirements for Security Enhancement",
-    "priority": "Medium",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-25",
-    "task": "Review data governance policies",
-    "priority": "Medium",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-25",
-    "task": "Evaluate compliance requirements for Security Enhancement",
-    "priority": "Low",
-    "estimated_hours": 4
-  },
-  {
-    "date": "2024-11-25",
-    "task": "Lead stakeholder meeting on data quality",
-    "priority": "Medium",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-25",
-    "task": "Evaluate compliance requirements for Data Lake",
-    "priority": "High",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-25",
     "task": "Approve data quality metrics for Engineering",
     "priority": "High",
-    "estimated_hours": 2
+    "estimated_hours": 6
   },
   {
-    "date": "2024-11-26",
+    "date": "2024-11-22",
     "task": "Review data governance policies",
-    "priority": "Low",
-    "estimated_hours": 2
+    "priority": "High",
+    "estimated_hours": 5
   },
   {
-    "date": "2024-11-26",
+    "date": "2024-11-22",
     "task": "Strategic planning session for Real-time Analytics",
-    "priority": "Low",
-    "estimated_hours": 2
+    "priority": "High",
+    "estimated_hours": 3
   },
   {
-    "date": "2024-11-26",
-    "task": "Evaluate compliance requirements for Analytics Platform",
+    "date": "2024-11-22",
+    "task": "Lead stakeholder meeting on data quality",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-22",
+    "task": "Lead stakeholder meeting on security protocols",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Lead stakeholder meeting on security protocols",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Review data governance policies",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Evaluate compliance requirements for Cloud Migration",
+    "priority": "High",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Evaluate compliance requirements for ML Pipeline",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Review data governance policies",
+    "priority": "High",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-25",
+    "task": "Lead stakeholder meeting on compliance standards",
     "priority": "Medium",
     "estimated_hours": 5
   },
   {
     "date": "2024-11-26",
+    "task": "Approve data quality metrics for Information Security",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Strategic planning session for Enterprise Data Platform",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Approve data quality metrics for Engineering",
+    "priority": "Medium",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Review data governance policies",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Lead stakeholder meeting on data quality",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-26",
+    "task": "Evaluate compliance requirements for Data Lake",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Approve data quality metrics for Information Security",
+    "priority": "Medium",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Review data governance policies",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-27",
     "task": "Lead stakeholder meeting on security protocols",
     "priority": "Medium",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-26",
-    "task": "Evaluate compliance requirements for Cloud Migration",
-    "priority": "Low",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-26",
-    "task": "Lead stakeholder meeting on cross-team collaboration",
-    "priority": "Low",
-    "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-26",
-    "task": "Approve data quality metrics for Information Security",
-    "priority": "Low",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-27",
-    "task": "Lead stakeholder meeting on cross-team collaboration",
-    "priority": "High",
-    "estimated_hours": 5
-  },
-  {
-    "date": "2024-11-27",
-    "task": "Lead stakeholder meeting on compliance standards",
-    "priority": "Low",
     "estimated_hours": 4
   },
   {
     "date": "2024-11-27",
-    "task": "Review data governance policies",
-    "priority": "Low",
-    "estimated_hours": 3
+    "task": "Approve data quality metrics for Business Intelligence",
+    "priority": "High",
+    "estimated_hours": 2
   },
   {
     "date": "2024-11-27",
+    "task": "Lead stakeholder meeting on data integration",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-27",
+    "task": "Evaluate compliance requirements for Analytics Platform",
+    "priority": "High",
+    "estimated_hours": 3
+  },
+  {
+    "date": "2024-11-28",
+    "task": "Evaluate compliance requirements for Data Lake",
+    "priority": "Medium",
+    "estimated_hours": 6
+  },
+  {
+    "date": "2024-11-28",
     "task": "Lead stakeholder meeting on risk management",
-    "priority": "Low",
-    "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-27",
-    "task": "Strategic planning session for Real-time Analytics",
     "priority": "Medium",
     "estimated_hours": 6
   },
   {
-    "date": "2024-11-27",
-    "task": "Approve data quality metrics for Analytics",
-    "priority": "High",
-    "estimated_hours": 6
-  },
-  {
-    "date": "2024-11-27",
-    "task": "Approve data quality metrics for Business Intelligence",
-    "priority": "Low",
-    "estimated_hours": 3
-  },
-  {
     "date": "2024-11-28",
-    "task": "Evaluate compliance requirements for Security Enhancement",
-    "priority": "High",
+    "task": "Approve data quality metrics for Engineering",
+    "priority": "Medium",
     "estimated_hours": 4
-  },
-  {
-    "date": "2024-11-28",
-    "task": "Evaluate compliance requirements for Data Quality Framework",
-    "priority": "Medium",
-    "estimated_hours": 3
-  },
-  {
-    "date": "2024-11-28",
-    "task": "Approve data quality metrics for Business Intelligence",
-    "priority": "High",
-    "estimated_hours": 6
   },
   {
     "date": "2024-11-28",
     "task": "Review data governance policies",
     "priority": "Medium",
-    "estimated_hours": 4
+    "estimated_hours": 5
   },
   {
     "date": "2024-11-28",
-    "task": "Evaluate compliance requirements for Data Quality Framework",
-    "priority": "Low",
-    "estimated_hours": 2
+    "task": "Review data governance policies",
+    "priority": "Medium",
+    "estimated_hours": 5
   },
   {
     "date": "2024-11-28",
-    "task": "Evaluate compliance requirements for Data Quality Framework",
-    "priority": "Low",
+    "task": "Lead stakeholder meeting on data quality",
+    "priority": "Medium",
     "estimated_hours": 6
   },
   {
     "date": "2024-11-28",
-    "task": "Lead stakeholder meeting on cross-team collaboration",
-    "priority": "Low",
+    "task": "Lead stakeholder meeting on security protocols",
+    "priority": "High",
+    "estimated_hours": 2
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Review data governance policies",
+    "priority": "Medium",
+    "estimated_hours": 4
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Review data governance policies",
+    "priority": "Medium",
     "estimated_hours": 3
   },
   {
     "date": "2024-11-29",
-    "task": "Lead stakeholder meeting on data quality",
-    "priority": "Low",
-    "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-29",
-    "task": "Lead stakeholder meeting on compliance standards",
-    "priority": "Low",
-    "estimated_hours": 4
-  },
-  {
-    "date": "2024-11-29",
-    "task": "Lead stakeholder meeting on cross-team collaboration",
-    "priority": "Low",
-    "estimated_hours": 2
-  },
-  {
-    "date": "2024-11-29",
     "task": "Approve data quality metrics for Information Security",
+    "priority": "High",
+    "estimated_hours": 5
+  },
+  {
+    "date": "2024-11-29",
+    "task": "Review data governance policies",
     "priority": "Medium",
-    "estimated_hours": 6
+    "estimated_hours": 3
   },
   {
     "date": "2024-11-29",
     "task": "Approve data quality metrics for Business Intelligence",
-    "priority": "Medium",
-    "estimated_hours": 2
+    "priority": "High",
+    "estimated_hours": 5
   },
   {
     "date": "2024-11-29",
-    "task": "Evaluate compliance requirements for Security Enhancement",
-    "priority": "Low",
+    "task": "Approve data quality metrics for Data Science",
+    "priority": "High",
     "estimated_hours": 4
-  },
-  {
-    "date": "2024-11-29",
-    "task": "Evaluate compliance requirements for Data Quality Framework",
-    "priority": "Low",
-    "estimated_hours": 6
   }
 ]
