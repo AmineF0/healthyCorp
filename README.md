@@ -31,9 +31,17 @@ These tasks were then analyzed to study individual workloads and overall team dy
 <img src="002.jpeg" width="500" alt="Diagram">
 
 
-
-
 => We then did a profound Sociometric Analysis Framework where we proposed a method to calculate the key relationships ( after creating the cognitive profiles for each employee). We used a proposed method after checking out other methods and criticizing said methods. (Granovetter’s theory and Moreno’s sociometry theory)
 
+## Creation of a data pipeline and interfacing:
+
+Development of a Flink system for data standardization (20%)
+Development of a Kafka system for data streaming (95%)
+Development of a Schema Registry system to ensure data validity (95%)
+Development of a raw data backup system (20%)
+Development of a basic Spark system (30%)
+Development of a PostgreSQL database to store processed data (50%)
+Development of a web interface and a simple backend for data visualization (60%)
+Integration of molecular systems (35%)
 
 All theories and discussions are in the article ( provided in the repo) [Link Text](https://github.com/AmineF0/healthyCorp/blob/main/HealthyCorp%20Article.pdf)
