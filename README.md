@@ -20,15 +20,12 @@ Beta, Project Gamma, Operations Support, and Technical Support.** Each employee
 is assigned a primary cognitive profile based on their communication patterns across
 the ten sentiment classes.
 
-<img src="team_structure.png" width="300" height="200" alt="Description">
 <img src="team_structure.png" width="500" alt="Diagram">
 We generated tasks for each team member using JSON files following this structure: { "date": "", "task": "", "priority": "", "estimated_hours": }. 
 These tasks were then analyzed to study individual workloads and overall team dynamics, helping understand resource allocation and team interactions.
 
-<img src="taskload01.png" width="300" height="200" alt="Description">
+<img src="taskload01.png" width="500" alt="Diagram">
+<img src="taskload02.png" width="500" alt="Diagram">
 
-<img src="taskload02.png" width="300" height="200" alt="Description">
-
-<img src="001.png" width="300" height="200" alt="Description">
-
-<img src="002.png" width="300" height="200" alt="Description">
+<img src="001.png" width="500" alt="Diagram">
+<img src="002.png" width="500" alt="Diagram">
