@@ -29,3 +29,11 @@ These tasks were then analyzed to study individual workloads and overall team dy
 
 <img src="001.jpeg" width="500" alt="Diagram">
 <img src="002.jpeg" width="500" alt="Diagram">
+
+
+
+
+=> We then did a profound Sociometric Analysis Framework where we proposed a method to calculate the key relationships ( after creating the cognitive profiles for each employee). We used a proposed method after checking out other methods and criticizing said methods. (Granovetter’s theory and Moreno’s sociometry theory)
+
+
+All theories and discussions are in the article.
