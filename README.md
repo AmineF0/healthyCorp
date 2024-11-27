@@ -22,3 +22,13 @@ the ten sentiment classes.
 
 <img src="path/to/image.png" width="300" height="200" alt="Description">
 
+We generated tasks for each team member using JSON files following this structure: { "date": "", "task": "", "priority": "", "estimated_hours": }. 
+These tasks were then analyzed to study individual workloads and overall team dynamics, helping understand resource allocation and team interactions.
+
+<img src="path/to/image.png" width="300" height="200" alt="Description">
+
+<img src="path/to/image.png" width="300" height="200" alt="Description">
+
+<img src="path/to/image.png" width="300" height="200" alt="Description">
+
+<img src="path/to/image.png" width="300" height="200" alt="Description">
