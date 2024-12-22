@@ -1,0 +1,26 @@
+{
+    "total_tasks": 131,
+    "priority_distribution": {
+        "High": 51,
+        "Low": 42,
+        "Medium": 38
+    },
+    "workload_statistics": {
+        "total_estimated_hours": 508,
+        "average_hours_per_task": 3.88,
+        "max_hours": 6,
+        "min_hours": 2,
+        "median_hours": 4
+    },
+    "date_statistics": {
+        "earliest_task": "2024-11-01",
+        "latest_task": "2024-11-29",
+        "total_days_span": 28
+    },
+    "task_metrics": {
+        "tasks_with_dates": 131,
+        "tasks_with_priorities": 131,
+        "tasks_with_hours": 131,
+        "completion_rate": 0.0
+    }
+}
