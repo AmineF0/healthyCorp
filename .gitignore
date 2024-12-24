@@ -6,3 +6,5 @@ kafka_2.12-3.8.0/
 test.session.sql
 
 .vscode/
+/convo/.env
+

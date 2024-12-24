@@ -2,11 +2,15 @@ import json
 import os
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
 from collections import Counter, defaultdict
+from dotenv import load_dotenv
 
+load_dotenv()
+
+api_key = os.getenv("API_KEY")
 # Initialize the NVIDIA AI client
 client = ChatNVIDIA(
     model="meta/llama-3.1-405b-instruct",
-    api_key="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",
+    api_key=api_key,
     temperature=0.2, 
     top_p=0.7,
     max_tokens=1024,

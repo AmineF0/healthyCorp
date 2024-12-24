@@ -4,7 +4,11 @@ from pathlib import Path
 import pickle
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
 from collections import Counter, defaultdict
+from dotenv import load_dotenv
 
+load_dotenv()
+
+api_key = os.getenv("API_KEY")
 class SentimentAnalyzer:
     def __init__(self, api_key, checkpoint_dir="./checkpoints"):
         self.checkpoint_dir = Path(checkpoint_dir)
@@ -135,7 +139,7 @@ class SentimentAnalyzer:
         return output_json
 
 def main():
-    api_key = "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"
+    api_key = api_key
     conversations_dir = "conversations"
     output_path = "sentiment_profiles.json"
     
